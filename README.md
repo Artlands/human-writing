@@ -29,17 +29,24 @@
 
 ## 快速安装
 
-<p>
-  <a href="https://github.com/KKKKhazix/human-writing/releases/latest/download/human-writing.skill"><img alt="Download human-writing.skill" src="https://img.shields.io/badge/download-human--writing.skill-C4473A?style=for-the-badge"></a>
-</p>
+把下面这句话发给你的 Agent。
 
-下载 `human-writing.skill`，交给支持 Skill 的应用安装。安装后显示名为「活人感写作」。
+```bash
+帮我安装这个skill：https://github.com/KKKKhazix/human-writing
+```
 
-也可以把仓库里的 [`human-writing`](./human-writing) 文件夹完整复制到本机 Skills 目录。文件夹名必须保留为 `human-writing`。
+Agent 会读取仓库、找到 `human-writing`，并完成安装。安装后显示名为「活人感写作」。
+
+<details>
+<summary><strong>当前 Agent 不能直接安装时</strong></summary>
+
+可以从 [Releases](https://github.com/KKKKhazix/human-writing/releases/latest) 下载 `human-writing.skill`，也可以把仓库里的 [`human-writing`](./human-writing) 文件夹完整复制到本机 Skills 目录。文件夹名必须保留为 `human-writing`。
 
 ```text
 ~/.agents/skills/human-writing/
 ```
+
+</details>
 
 安装后可以这样调用。
 
