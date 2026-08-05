@@ -17,7 +17,7 @@
 
 ## 安装
 
-最省事的方式是打开 [Releases](https://github.com/KKKKhazix/human-writing/releases/latest)，下载 `活人感写作.skill`，再交给支持 Skill 的应用安装。
+最省事的方式是打开 [Releases](https://github.com/KKKKhazix/human-writing/releases/latest)，下载 `human-writing.skill`，再交给支持 Skill 的应用安装。安装后显示名仍然是「活人感写作」。
 
 也可以把仓库里的 `human-writing` 文件夹完整复制到本机的 Skills 目录。目录名必须保留为 `human-writing`。
 
