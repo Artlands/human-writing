@@ -1,4 +1,8 @@
 <p align="center">
+  <img src="./assets/readme-cover.svg" alt="Human Writing" width="100%">
+</p>
+
+<p align="center">
   <a href="https://github.com/Artlands/human-writing/releases/tag/v1.2.0"><img alt="Version 1.2.0" src="https://img.shields.io/badge/version-1.2.0-C4473A?style=flat-square"></a>
   <a href="./LICENSE"><img alt="MIT License" src="https://img.shields.io/badge/license-MIT-313131?style=flat-square"></a>
   <a href="https://github.com/Artlands/human-writing/releases/latest"><img alt="GitHub Release" src="https://img.shields.io/github/v/release/Artlands/human-writing?style=flat-square&color=6B6258"></a>
