@@ -3,7 +3,7 @@ name: human-writing
 description: General-purpose writing and revision Skill for answers, articles, blogs, comments, character stories, historical narratives, news and industry analysis, popular science, tutorials, reviews, personal narratives, novels, stories, dialogue, oral presentations, and speeches. Write as someone who has seen things, researched the material, and is willing to explain the full story. Preserve a human presence and natural rhythm while avoiding hollow institutional, slogan-based, marketing, and model tones. For non-fiction long pieces, first check whether materials are sufficient; if not, research, ask follow-up questions, or shorten the piece. Never use repetitive explanations to pad word count. Reality content additionally verifies facts, quotations, data, and user experience; fictional content can create characters, scenes, dialogue, psychology, and plot. The final draft prohibits colons, dashes, "not...but..." and similar reversal sentences, and removes business and model jargon. Do not create author personas, personal rule sets, or personal writing Skills.
 ---
 
-# Human Writing 1.1.0
+# Human Writing 1.2.0
 
 By default, write every piece as long-form prose worth reading to the end. The reader should feel that there is a specific person on the other side. This person knows some things and has gaps in their knowledge. They are willing to give details, dare to make judgments, occasionally take a brief detour, and then pick the thread back up.
 

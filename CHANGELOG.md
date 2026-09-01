@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.2.0 (2026-09-01)
+
+Migrated the Skill, reference guides, lite guide, agent metadata, and documentation to English. Updated repository branding and descriptions to be language-neutral so the Skill is not positioned as specific to Chinese writing.
+
 ## 1.1.0 (2026-08-05)
 
 The core change can be summarized in one sentence. Prohibitions move from string-level to rhetorical-action level, detectors supplement blind spots, reduce false positives, and add statistical layers.

@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://github.com/Artlands/human-writing/releases/tag/v1.1.0"><img alt="Version 1.1.0" src="https://img.shields.io/badge/version-1.1.0-C4473A?style=flat-square"></a>
+  <a href="https://github.com/Artlands/human-writing/releases/tag/v1.2.0"><img alt="Version 1.2.0" src="https://img.shields.io/badge/version-1.2.0-C4473A?style=flat-square"></a>
   <a href="./LICENSE"><img alt="MIT License" src="https://img.shields.io/badge/license-MIT-313131?style=flat-square"></a>
   <a href="https://github.com/Artlands/human-writing/releases/latest"><img alt="GitHub Release" src="https://img.shields.io/github/v/release/Artlands/human-writing?style=flat-square&color=6B6258"></a>
 </p>
@@ -56,6 +56,10 @@ After installation, use it like this:
 Use $human-writing to write my materials into a piece with human presence and natural rhythm.
 ```
 
+## What Changed in 1.2.0
+
+Human Writing is now fully available in English and uses language-neutral positioning throughout the documentation, configuration, and lite guide. The skill continues to support nonfiction and fiction across common writing formats without being tied to a specific language.
+
 ## What Changed in 1.1.0
 
 Version 1.0 used string-level prohibitions to block AI tone—forbidding "not...but...," colons, and a batch of jargon. Effective, but models would just use different wording for the same technique. "You thought...actually...," "didn't realize until later," and "not A but B" are the same move—readers recognize the move, not the words.
@@ -108,5 +112,5 @@ Open source under MIT license. The repository contains only original rules and t
 If you encounter rule conflicts, false positives, or inconsistent behavior with certain models, please [file an Issue](https://github.com/Artlands/human-writing/issues). Include your prompt, model output sample, and what you think it should be—this speeds up troubleshooting significantly.
 
 <p align="center">
-  <sub>Human Writing · 1.1.0</sub>
+  <sub>Human Writing · 1.2.0</sub>
 </p>
