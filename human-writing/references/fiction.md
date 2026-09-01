@@ -1,113 +1,113 @@
-# 虚构写作让人物自己把事做出来
+# Fictional Writing: Let Characters Do the Work Themselves
 
-虚构可以创造。它要守住人物、时间、因果和世界规则。
+Fiction can create. It must hold characters, time, causality and world rules.
 
-用户没有指定文体时，优先写得像一个人正在讲一件真让他挂心的事。用户指定文学风格、类型小说、剧本或实验写作时，服从当前作品，不强加帖子口气。
+When users don't specify genre, prioritize writing like someone seriously telling something that really worries them. When users specify literary style, genre, script or experimental writing, serve the current work; don't force post tone on it.
 
-## 读这份文件的顺序
+## Reading Order for This File
 
-- [人物与场景](#先给人物一件眼下要办的事)
-- [对白与视角](#对白在做事)
-- [设定与时间](#设定等人物碰到再讲)
-- [第一人称与现实部分](#第一人称可以完整虚构)
-- [结尾](#结尾留下后果)
+- [Characters and scenes](#give-characters-one-thing-to-do-right-now)
+- [Dialogue and perspective](#dialogue-does-work)
+- [Setting and time](#explain-setting-when-characters-meet-it)
+- [First person and reality parts](#first-person-can-completely-fictionalize)
+- [Endings](#endings-leave-consequences)
 
-## 先给人物一件眼下要办的事
+## Give Characters One Thing to Do Right Now
 
-故事题目只有一个设定时，补出下面几项。
+When a story prompt has just one setting, supplement:
 
-- 谁先受到影响。
-- 他此刻想得到什么。
-- 为什么今天必须行动。
-- 什么让原办法失效。
-- 这次行动会留下什么后果。
+- Who's affected first.
+- What they want right now.
+- Why they must act today.
+- What makes the old way fail.
+- What consequence this action leaves.
 
-不必每次都写生死选择。要回一笔钱，躲过一次见面，保住体面，让家人相信一句话，都能推动故事。
+Not every choice needs to be life or death. Paying back debt, dodging a meeting, keeping face, convincing family of one thing—all can push stories forward.
 
-## 性格藏在选择里
+## Character Shows in Choices
 
-不要只给人物贴善良、聪明、冷漠、敏感的标签。
+Don't just label people as kind, smart, cold, sensitive.
 
-写他在谁面前退让，碰到什么会撒谎，擅长解决哪种问题，又总在哪一步犯同一个错。
+Write who they back down to, what makes them lie, what problems they solve well, which step they always fail at the same way.
 
-配角也有眼下要办的事。只负责递消息、制造误会或夸奖主角的人，很快会露出工具感。
+Supporting characters also have things to do right now. Anyone just delivering messages, creating misunderstandings or praising the lead quickly shows tool marks.
 
-## 每场戏结束时改变一点东西
+## Every Scene Changes Something
 
-进入场景前，知道双方各想得到什么。
+Know what both sides want before entering scenes.
 
-离开场景时，至少改变信息、关系、计划、风险、权力、理解或情绪中的一项。
+When leaving, change at least one of: information, relationship, plan, risk, power, understanding or emotion.
 
-只有环境描写、寒暄与设定说明，没有人换办法，这场戏可以删短。
+Just scenery, greetings and setting explanation with no one switching approaches—could delete. 
 
-关键转折尽量来自人物此前的行动、关系和已经存在的规则。车祸、绝症、双胞胎、遗嘱和临时出现的新规则不能反复救场。
+Key turns best come from earlier actions, relationships and existing rules. Car crashes, diseases, twins, wills and suddenly-appearing new rules can't rescue scenes repeatedly.
 
-## 对白在做事
+## Dialogue Does Work
 
-人物说话通常在试探、遮掩、说服、拖延、靠近、推开或保住面子。
+People talking usually try exploring, hiding, convincing, stalling, getting close, pushing off or saving face.
 
-他可以答非所问，可以说一半。两个人都知道的背景，不会为了读者重新念一遍。角色也不会轮流替作者讲主题。
+Can answer wrong; can say halfway. Shared background won't get re-stated just for readers. Character won't take turns explaining the theme for the author.
 
-不同声音来自身份、关系与眼下压力，不靠固定口癖。
+Different voices come from position, relationship and current pressure; not fixed speech habits.
 
-## 细节跟着视角走
+## Details Follow Perspective
 
-紧张的人先看出口，等钱的人会留意手机有没有亮，心虚的人会记住对方沉默了多久。
+Tense people spot exits first. Those waiting for money watch if the phone's lit. Those with guilty conscience measure how long the other's silent.
 
-动作已经把情绪写出来，少翻译一次。人物把门打开又关上，后面未必还需要一句“他犹豫了”。
+When action already shows emotion, stop translating. Character opens then closes the door—doesn't necessarily need "they hesitated" after.
 
-近距离视角只写人物当时能知道的事。全知视角可以移动，每次移动要让读者知道自己正在跟谁。
+Close perspective only shows what that character can know then. Omniscient can move; each move needs readers to know whose eyes they're following.
 
-## 设定等人物碰到再讲
+## Explain Setting When Characters Meet It
 
-先问一条规则会改变谁的行动，谁因此得利，谁要付代价。人物尚未碰到它，正文通常不用提前介绍。
+First ask if a rule changes someone's action, who benefits, who pays the cost. Character hasn't encountered it yet; text usually doesn't preview.
 
-规则可以被人物误解，作者不能在需要救场时临时改掉。例外要有早先存在的条件或明确代价。
+Rules can be misunderstood by characters; author can't improvise when rescue is needed. Examples need early conditions or clear costs.
 
-陌生名词一次少来几个。先让读者看见它怎样被使用，再补名字与来历。
+Strange terms come few at a time. Let readers see how it's used first; then add the name and backstory.
 
-## 场景与概述交替
+## Scenes and Summary Alternate
 
-关键选择、关系变化、秘密暴露和无法撤回的动作，用场景慢下来。
+Key choices, relationship shifts, secrets revealed, unstoppable action—use scenes to slow down.
 
-重复劳动、长途移动、数月流逝和读者已经明白的过程，可以概述过去。
+Repetitive labor, long travel, months passing, processes readers already understand—can summarize past.
 
-全是场景，时间走不动。全是概述，读者碰不到人物。
+All scene, time won't move. All summary, readers can't touch people. 
 
-## 第一人称可以完整虚构
+## First Person Can Completely Fictionalize
 
-虚构叙述者可以拥有经历、心理、对白和秘密，不需要逐项向用户核实。
+Fictional narrators can have experiences, psychology, dialogue and secrets without line-by-line user verification.
 
-用户明确要求按自己的真实经历写时，第一人称动作要与用户材料对齐。允许文学化改写时，先确认哪些关系与结果不能动。
+When users explicitly request writing from their real experience, first-person action must match user materials. When allowing literary adaptation, first confirm what relationships and consequences can't move.
 
-## 现实部分按需核准
+## Reality Parts Need Verification per Need
 
-纯架空世界只检查内部规则。
+Completely invented worlds only check internal rules.
 
-故事依赖真实城市、历史、职业、药物、法律或技术时，核准会改变情节与现实判断的部分。无关紧要的房间摆设、天气和路人可以创造。
+Stories depending on real cities, history, jobs, medicine, law or technology—verify parts that'd change plot and reality judgment. Unimportant room details, weather and background people can be created.
 
-写仍在世的真人时，不要虚构严重违法、伤害、疾病和私密关系，再用纪实口吻让读者误以为发生过。
+Writing still-living real people—don't fictionalize serious crime, harm, disease and private relationships, then use nonfiction tone to let readers think it happened.
 
-## 原创示范
+## Original Example
 
-下面是虚构片段，只示范人物怎样通过行动露出性格。
+Below is a fiction sample, just showing how character displays personality through action.
 
-> 陈放把借条折了两次，塞回口袋。
+> Chen put the borrowed-money note in his pocket, folded twice.
 >
-> 老板问他是不是嫌少。他说没有，手却一直按着口袋，像怕那张纸自己跑出来。
+> Boss asked if he thought the amount was too little. He said no, but his hand kept pressing the pocket like he feared the paper would escape on its own.
 >
-> 门外有人催货，老板起身去接电话。陈放本来可以走，他站了一会儿，又把借条掏出来放回桌上。
+> Someone outside rushed the delivery; boss stood to take the call. Chen could have left; he stood for a moment, then pulled the note back out and put it on the desk.
 >
-> “日期写错了。”
+> "The date's wrong."
 >
-> 老板看了一眼。日期没有错。
+> Boss glanced. The date wasn't wrong.
 
-这里没有解释陈放胆小、谨慎或想反悔。人物在一张借条上来回改主意，读者会自己看见。
+Here, nothing explains Chen as timid, cautious or regretful. Person changing decisions on one note; readers see for themselves.
 
-## 结尾留下后果
+## Endings Leave Consequences
 
-结尾可以停在人物完成的动作、关系的新位置、旧物的新含义，或一项已经无法撤回的后果。
+Endings can land on complete action, relationship's new place, old object's new meaning, or consequence already irreversible.
 
-开放结尾可以省略最终结果，不能把人物的核心选择也藏掉。
+Open endings can skip the final result; can't hide character's core choice.
 
-故事已经让读者感到什么，就别再让叙述者出来总结主题。
+When story already shows readers what they feel, don't let the narrator come back summarize theme.

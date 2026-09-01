@@ -1,204 +1,200 @@
-# 改稿时先救人，再清句子
+# Revision: Save People First, Then Clean Sentences
 
-这份文件只在初稿完成以后读取。它不能参与第一稿生成。
+This file is only read after the first draft is complete. It cannot participate in first draft generation.
 
-改稿的目标不是把文章修到无懈可击。先保护已经活着的地方，再拆掉模型摆出来的姿势。
+The goal of revision is not to make an article flawless. First protect the places already alive, then take apart the postures the model displays.
 
-下面七遍默认用于现代白话散文。诗歌、剧本、人物对白和实验写作只执行事实或设定边界、用户明确要求与硬禁用项，其余检查服从具体文体。不要为了让诗歌主干完整、让对白像说明文，改坏原本成立的作品。
+The seven passes below default to modern vernacular prose. Poetry, scripts, character dialogue and experimental writing only execute fact or setting boundaries, explicit user requests and hard prohibitions; other checks follow specific genres. Don't ruin originally successful work to complete the main structure of poems, make dialogue like expository writing.
 
-## 改稿顺序
+## Revision Order
 
-- [先看谁在说](#第一遍看谁在说)
-- [再看文章有没有往前走](#第二遍看文章怎样往前走)
-- [拆掉表演性的中文](#第三遍拆掉表演性中文)
-- [听词序、照应、停顿和古意](#第四遍听一遍中文顺不顺)
-- [清禁用项](#第五遍清掉绝对不能出现的东西)
-- [核现实或设定](#第六遍核现实或设定)
-- [最后看结尾](#第七遍查结尾)
+- [See who's speaking first](#first-pass-see-whos-speaking)
+- [Check if the article moves forward](#second-pass-how-the-article-moves-forward)
+- [Remove performative prose](#third-pass-remove-performative-prose)
+- [Listen to word order, reference, pauses and register](#fourth-pass-listen-to-whether-the-prose-flows)
+- [Clear prohibited items](#fifth-pass-clear-absolutely-prohibited-items)
+- [Verify reality or setting](#sixth-pass-verify-reality-or-setting)
+- [Finally check the ending](#seventh-pass-check-the-ending)
 
-## 第一遍看谁在说
+## First Pass: See Who's Speaking
 
-读完以后回答四件事。
+After reading, answer four things.
 
-- 现实稿的作者凭什么知道这件事，虚构稿的叙述者此刻能够知道什么。
-- 哪一处能看出他真的在意。
-- 哪个判断有材料托着，哪个情绪有动作或关系托着。
-- 哪几段换一个模型也能原样写出来。
+- For reality pieces, what does the author know this from; for fictional pieces, what can the narrator know at this moment.
+- Where can you see they really care.
+- Which judgment has material supporting it, which emotion has action or relationship supporting it.
+- Which several paragraphs could be written the same way by another model.
 
-第四类段落优先处理。现实稿补信息来路、作者取舍和具体材料，虚构稿补叙述位置、人物行动和场景变化。没有东西可补就删。
+The fourth category gets priority treatment. Reality pieces supplement information sources, author choices and concrete materials; fictional pieces supplement narrative position, character action and scene changes. If nothing can be supplemented, delete.
 
-不要用增加“我觉得”“说真的”“大家想想”修复匿名感。声音来自取舍，不来自代词。
+Don't fix anonymous feeling by adding more "I feel," "to be honest," "everyone think about." Voice comes from choices, not from pronouns.
 
-## 第二遍看文章怎样往前走
+## Second Pass: How the Article Moves Forward
 
-给每段标一个主要作用。动作、事实、解释、例子、疑问、判断、背景或情绪。
+Label each paragraph with one main function. Action, fact, explanation, example, question, judgment, background or emotion.
 
-连续几段只做同一件事，通常会拖。后段没有接住前段留下的问题、动作或结果，顺序需要调整。
+When consecutive paragraphs do only the same thing, usually it's dragging. When the later paragraph doesn't catch the question, action or result left by the earlier one, order needs adjustment.
 
-再问后一段新增了什么。它只把前段换成另一套说法，直接合并或删除。长文最常见的注水方式就是把一个观点解释四遍。
+Then ask what the later paragraph adds. Does it only rephrase the earlier paragraph into another set of words? Merge or delete directly. The most common padding method in long articles is explaining one opinion four times.
 
-现实稿给每段写一个不公开的材料出处，可以是用户材料、公开来源或可核验流程。虚构稿改为标出这一段由哪个人物目标、动作、发现或关系变化托住，不给创造出来的细节伪造来源。只能写出“这是进一步解释”或“这是可能的影响”，说明这一段没有新东西。删到文章长度与材料相称，不替目标字数保稿。
+For reality pieces, write a non-public material source for each paragraph—could be user material, public source or verifiable process. For fictional pieces, instead mark which character goal, action, discovery or relationship change supports this paragraph; don't falsify sources for created details. If you can only write "this further explains" or "this is possible impact," this paragraph has nothing new. Delete to match article length with materials; don't preserve for target word count.
 
-遇到历史、技术、制度和数据，问它正在回答哪一个问题。删掉以后人物选择、风险和判断都不变，这段知识来早了，或者根本不用来。
+When encountering history, technology, systems and data, ask what question it's answering. Delete it; if character choices, risk and judgment don't change, this knowledge came too early or isn't needed at all.
 
-做一次压缩试验。若删掉三分之一以后事实、动作、判断和阅读体验几乎没变，原稿就是在注水。保留删短后的版本。
+Try a compression experiment. If deleting a third and facts, actions, judgments and reading experience barely change, the original was padding. Keep the shortened version.
 
-人物稿看他在哪里，做了什么，遇到什么限制，后来怎样。虚构稿看谁想得到什么，场景结束时什么变了。
+For character pieces, look at where they are, what they did, what limits they hit, how they moved forward. For fictional pieces, look at what someone wanted, what changed when the scene ended.
 
-整篇靠“第一层”“另一层”“更深处”推进时，把这些路标删掉。让事实差异与读者问题承担连接。
+When entire pieces push forward with "first level," "another level," "deeper still," delete these signposts. Let fact differences and reader questions carry the connection.
 
-## 第三遍拆掉表演性中文
+## Third Pass: Remove Performative Prose
 
-### 假深刻
+### False Depth
 
-圈出所有单独截图很好看、放回正文却没有增加事实、解释或情绪的句子。大部分删掉。
+Circle all sentences that look great standing alone but don't add facts, explanation or emotion when returned to body text. Delete most of them.
 
-连续几段都用一句短判断收尾，留下最有材料的一处。普通段落回到普通句子。
+When several consecutive paragraphs all end with one short judgment, keep the most material-supported one. Normal paragraphs return to normal sentences.
 
-### 假具体
+### False Specificity
 
-搜索精确时间、天气、神态、房间摆设、烟酒食物和突然出现的原话。现实稿逐项问它来自哪里，会不会改变后文。虚构稿只问它是否属于当前视角，是否影响行动、关系或气氛。
+Search exact times, weather, expressions, room furnishings, cigarettes, alcohol, food and suddenly appearing dialogue. For reality pieces, ask line by line where it comes from and whether it changes what follows. For fictional pieces, just ask whether it belongs to current perspective and whether it affects action, relationship or mood.
 
-现实稿没有来源也没有作用，删掉。虚构稿没有作用，删掉。不要让装饰细节冒充亲历，也不要让虚构细节变成统一摆放的道具。
+For reality pieces with no source and no function, delete. For fictional pieces with no function, delete. Don't let decorative details pretend to be experience, don't let fictional details become uniformly placed props.
 
-### 假口语
+### False Colloquialism
 
-“老铁”“兄弟们”“咱就是说”“泡杯茶慢慢说”一类称呼只有当前说话者或人物真会这样说时才留。
+Terms like "buddy," "brothers," "let me tell you," "have some tea and chat" only stay if the current speaker or character would actually say them.
 
-不要为了制造活人感主动添加粗口、错别字、三连省略号和括号吐槽。人物身份、实验写作或原始材料确实需要时，按作品本身处理。
+Don't actively add profanity, typos, triple ellipses and bracketed commentary to create living feel. When character identity, experimental writing or raw materials truly require it, handle according to the work itself.
 
-### 抽象名词
+### Abstract Nouns
 
-抽象名词连续出现时，问清谁做了什么，影响了谁，钱、时间和责任落在哪里。
+When abstract nouns appear consecutively, ask clearly who did what, who it affected, where money, time and responsibility landed.
 
-一句话能换进十篇商业文章，说明它没有当前材料。
+If a sentence can go into ten business articles, it means it doesn't have current materials.
 
-### 比喻换场
+### Metaphor Changes Scenes
 
-现代现实散文先把借来的世界写在旁边。道路、战争、建筑、温度、仓储、海洋、身体。
+In modern reality prose, first write the borrowed world alongside. Roads, wars, buildings, temperature, storage, oceans, bodies.
 
-短距离出现三套时先全部还原成本义。本义已经清楚，一个也不用放回。小说、诗歌和抒情写作改看意象是否属于同一套感受与场景，不按数量机械删除。
+When three or more appear in short distance, first return all to literal meaning. Once literal meaning is clear, don't put any back. For novels, poetry and emotional writing, check instead whether images belong to the same set of feelings and scenes; don't mechanically delete by count.
 
-抽象产品稿尤其容易借用仓库、抽屉、温度、死亡、坍塌、浪潮、钥匙和底座。所写对象并非这些东西时，先删掉。删掉以后意思没损失，就不要换一个新比喻。
+Abstract product pieces especially easily borrow warehouses, drawers, temperature, death, collapse, waves, keys and foundations. When what's written isn't these things, delete first. If meaning doesn't lose after deletion, don't exchange for a new metaphor.
 
-## 第四遍听一遍中文顺不顺
+## Fourth Pass: Listen to Whether the Prose Flows
 
-这一遍检查现代散文。诗歌分行、人物对白和剧本动作可以使用省略、断句与不完整句，按 `references/formats.md` 和 `references/fiction.md` 判断。
+This pass checks modern prose. Poetry line breaks, character dialogue and script actions can use omission, breaks and incomplete sentences, per `references/formats.md` and `references/fiction.md`.
 
-### 主干早点来
+### Main Structure Comes Early
 
-圈出“……的，是……”“更……的是”“真正让……的”“那些……的……”和一句里多个“的”。
+Circle "......which is......", "what's even......", "what truly......", "those......that......" and multiple "of" in one sentence.
 
-先找到做事的人，把他与动作放到前面。原因、时间、条件与例子接到后面。
+First find the person doing the thing, put them and the action to the front. Reasons, time, conditions and examples follow after.
 
-不要机械切短。连续短句会变成鼓点。复杂关系允许用长句讲完，只要主干早点出现。
+Don't mechanically shorten. Consecutive short sentences become drumbeats. Complex relationships allow telling through long sentences, just get the main structure out early.
 
-段落也要有高低差。连续十段都只有一句话，合并其中能顺着读下去的部分。连续几段长度接近，检查是不是每段都按同一模具完成。
+Paragraphs also need high-low variation. Consecutive ten paragraphs with only one sentence each—merge parts that flow together. When several consecutive paragraphs are similar length, check if each is finished by the same template.
 
-### 前一句把什么交给了后一句
+### What Does One Sentence Hand to the Next
 
-顺着每个逗号和句号往后看。后一句接的是前一句刚出现的人、物、动作或结果，通常会顺。它忽然换对象，却只靠“这”“它”“他们”连接，读者可能会认错人。
+Follow every comma and period to look forward. The next sentence connects to the person, thing, action or result just appearing in the previous sentence—usually flows. When it suddenly changes objects but only connects with "this," "it," "they," readers might get confused.
 
-指向清楚时，删掉重复的主语和机械连接词。两个人同时在场、前一句出现多个名词或中间插入一大段话时，把名字写回来。
+When pointing is clear, delete repeated subjects and mechanical connectors. When two people are in the scene simultaneously, the previous sentence has multiple nouns, or a big chunk interrupts, write the names back.
 
-长定语尽量拆开。先让人和东西出现，再补它的来历、条件和限制。连续出现三个“的”，或者读到名词时已经忘了句首，就要重写。
+Untangle long attributes. Let people and things appear first, then add their history, conditions and limits. When consecutive three "of," or by the time you reach the noun you've forgotten the sentence start, rewrite.
 
-### 停顿有轻重
+### Pauses Have Weight
 
-读出声。逗号处应当还能接着说，句号处应当已经落下一件事。连续短句像敲桌子就合并，长句一口气没有落脚处就拆开。
+Read aloud. At commas you should still be able to keep talking; at periods a thing should be done. Consecutive short sentences like table-tapping should merge; long sentences with no landing place should break.
 
-短句放在长句后面，确实能压住一句话。每段都这样收尾，会变成模型的固定鼓点。让普通地方普通地结束。
+Short sentences after long sentences do hold down one sentence. When every paragraph ends this way, it becomes the model's fixed drumbeat. Let normal places end normally.
 
-### 动作后面少解释一句
+### Less Explanation After Action
 
-圈出动作、物件、原话和比喻后面的情绪解释。读者已经能看见人物在犹豫、害怕、舍不得或嘴硬，就删掉解释。
+Circle emotion explanation following actions, objects, quotes and metaphors. When readers can see hesitation, fear, reluctance or stubbornness in the character, delete the explanation.
 
-留白只省读者能够自己得到的部分。关键事实、因果、人物选择和必要条件仍要说清。
+Blank space only spares what readers can get themselves. Key facts, causality, character choices and necessary conditions still need clear saying.
 
-### 白话与古意别打架
+### Vernacular and Archaic Don't Fight
 
-检查“买／购买”“改／修改”“看／观察”“用／使用”这类单双音节词。根据说话者和场合选，不要全换成正式长词，也不要为了古意全压成单字。
+Check "buy/purchase," "fix/repair," "see/observe," "use/employ" type single-double syllable words. Choose per speaker and setting; don't wholesale convert to formal long words, don't pressure double-syllable words into single characters for archaic feel.
 
-成语、典故和文言句单独拿出来读。删掉以后更自然，就删。需要紧跟白话解释，也删。它与人物身份、题材和全文语气不在一起，更要删。
+Take out idioms, allusions and classical sentences separately. If it's more natural deleted, delete. If it needs right-behind vernacular explanation, delete too. If it doesn't align with character identity, topic and overall tone, delete especially.
 
-## 第五遍清掉绝对不能出现的东西
+## Fifth Pass: Clear Absolutely Prohibited Items
 
-全文搜索破折号和连接号式破折号，正文清零。搜索中文冒号和英文冒号，只保留引出人物直接原话的那几处，提示性冒号全部改写。网址、代码和机器字段可以保留。
+Full-text search dashes and en-dashes; clear them from body text entirely. Search colons; keep only those introducing character direct speech and convert instructional colons. URLs, code, and machine fields can remain.
 
-清翻案腔要按动作查，不能只按字面查。逐段问一句，这里是不是先立了一个读者并没有的误解，再推翻它抬价。下面是同一个动作的常见外衣，命中任何一件都拆回正面陈述。
+Search reversal phrasing by action, not just by wording. Examine paragraph by paragraph: is this setting up a misunderstanding readers don't have, then knocking it down for value? Below are common disguises of the same action; hitting any of them means unpack back to frontal statement.
 
-| 外衣 | 例子 |
+| Disguise | Example |
 | --- | --- |
-| 字面翻案 | 不是A，而是B。并非A，而是B。不在于A，而在于B |
-| 省字变形 | 不是A，是B。不是A，B才是 |
-| 跨句变形 | 不是A。而是B。表面上是A。其实是B |
-| 换字变形 | 与其说A，倒不如讲B。与其说A，毋宁说B |
-| 以为体 | 你以为A，其实B。我一直以为A，后来才发现B。回头才发现 |
-| 让转体 | 看似A，实则B。大家都说A，可真相是B。答案恰恰相反 |
-| 抬价体 | A不重要，重要的是B。真正值钱的从来都与A无关 |
+| Literal reversal | It's not A, it's B. Not A but B. Not about A, about B |
+| Character deletion | It's not A, is B. It's not A, B is it |
+| Cross-sentence form | It's not A. It's B. Looks like A. Actually B |
+| Character swap | Rather say A than B. Rather A than B |
+| "I thought" form | You thought A, actually B. I always thought A, only later found B. Only later found |
+| "Seems" form | Seems A, actually B. Everyone says A, real answer is B. Answer's the opposite |
+| "What matters" form | A doesn't matter, what matters is B. Real value never relates to A |
 
-拆的办法只有一种，找到这句话原本想下的判断，从正面把它说出来，再把依据放在旁边。文章确实用材料走过了从误解到修正的过程时，可以保留一次自我修正，但不能穿上面任何一件外衣。
+The only way to unpack is one: find what this sentence originally wanted to say, say that judgment from the front, put the reasoning beside it. When articles truly use materials to walk from misunderstanding to correction, one self-correction can remain, but cannot wear any of the above disguises.
 
-搜索三项以上的同构排比。同一个引导词或同一个句型连排三次以上，留两项，第三项换说法或删掉。
+Search three or more parallel items with identical structure. Same intro word or sentence pattern repeated three times or more—keep two, change wording on the third or delete.
 
-搜索给抽象名词配具体动词的抒情句。时间保管、岁月打磨、焦虑显形、孤独发芽一类，还原成人做了什么、发生了什么。
+Search emotional sentences pairing abstract nouns with concrete verbs. "Time guards memory," "years smooth edges," "anxiety shows form," "solitude sprouts"—return to people doing things, things happening. When articles are truly writing concrete objects, this remains unaffected.
 
-搜索名词化。“进行了”“实现了”“完成了对”“起到了……作用”“具有……意义”，还原成直接的动词。
+Search nominalization. "Implemented," "realized," "completed...of," "played a role," "has meaning"—return to direct verbs.
 
-搜索“说白了”“说穿了”“先说结论”。全部删除或改写。
+Search "simply put," "when you look closer," "first off the conclusion." Delete or rewrite all.
 
-检查模型常用的洞察路标。“更微妙的是”、“还有一层”、“只说对了一半”、“值得注意的是”、“需要指出的是”、“从某种意义上说”用来给段落抬高时删除。文字确实在说楼层、数量或原句本义时保留。
+Check common model insight signposts. "What's more subtle," "there's another layer," "only got half," "worth noting," "needs pointing out," "in a sense" used to elevate paragraphs—delete. When text really discusses layers, quantities or original meaning, keep.
 
-下面这些词在本 Skill 中作为绝对禁词处理。赋能、抓手、商业闭环、价值闭环、能力沉淀、拉通、底层逻辑、顶层设计、认知跃迁、价值释放、能力建设、降本增效、内容矩阵、全链路、组合拳、打开想象空间、结构性机会、关键命题、深层逻辑、技术底座、公共底座、技术主权、单点风险、主脊柱、材料锚点、认知增量、迭代闭环。改成人、动作、钱、时间与后果。
+These words are treated as absolute prohibitions in this Skill. Empower, handle, business loop, value loop, ability settlement, connect through, base logic, top design, cognitive leap, value release, ability building, cost reduction productivity gain, content matrix, full chain, combination punch, open imagination space, structural opportunity, key proposition, deep logic, tech foundation, public foundation, technical sovereignty, single point risk, main spine, material anchor, cognition increment, iteration loop. Change to people, actions, money, time and consequences.
 
-下面这些词只做语境检查。沉淀、颗粒度、对齐、协同、链路、生态位、心智、范式、方法论、核心变量、打法、想象空间、闭环、不丢。它们确实表示化学沉淀、排版对齐、游戏战术、房产或艺术评论里的想象余地、控制回路、“不丢人”等本义时保留；只是在给普通事情抬价时改写。
+These words take context checking. Settle, granularity, align, synergize, chain, ecological niche, mindshare, paradigm, methodology, core variable, move, imagination space, loop, no shame. Keep them when they truly mean chemical settling, typography alignment, game tactics, imagination space in property or art review, control loop, "not shameful"; rewrite when they're just adding value to ordinary things.
 
-还有一批模型偏爱的抒情词要过一遍。安放、抵达、微光、褶皱、丰盈、滚烫、轻盈、赤裸、剥开、锋利、坚硬、柔软。写具体事物时都是好词，用来给抽象概念穿衣服时删掉。「」括起来的自造短语也一样，一篇里出现三处以上，多半是在造金句，拆掉。
+One more batch of model-favored emotional words to check. Placed, arrived, shimmer, crease, richness, scalding, lightness, naked, stripped, sharp, hard, soft. All good words for concrete things; delete when dressing abstract concepts. Phrases in 「」brackets also the same—when three or more in one piece, usually making golden phrases; unpack them.
 
-检查脚本里的硬禁词必须与本节完全一致。增加或删除硬禁词时，同一轮修改脚本，不能让脚本偷偷多出一套规则。
+Check that hard-prohibition words in script exactly match this section. When adding or deleting hard-prohibition words, modify script in the same round; scripts can't secretly add a second rule set.
 
-原话命中禁令时改成转述。禁用项没有清零，不能交稿。
+When source quotes hit prohibitions, convert to indirect speech. Prohibited items not cleared means no delivery.
 
-## 第六遍核现实或设定
+## Sixth Pass: Verify Reality or Setting
 
-现实稿核时间、数字、身份、引语、因果与第一人称动作。核验说明留在后台。
+Reality pieces verify time, numbers, identity, quotes, causality and first-person actions. Keep verification notes backstage.
 
-虚构稿核人物知道什么、时间空间、伤势物件与世界规则。情绪已经由动作托住，删掉紧随其后的解释。
+Fictional pieces verify what characters know, time and space, injuries and objects and world rules. Emotions already supported by action, delete trailing explanation.
 
-混合稿核现实中必须准确的部分与创作空间有没有彼此冒名。
+Mixed pieces verify parts that must be accurate in reality and whether creative space has any name-borrowing.
 
-## 第七遍查结尾
+## Seventh Pass: Check the Ending
 
-把最后两段分别删掉再读。删掉更有力，就让文章提前结束。
+Delete the last two paragraphs separately, then read. If deletion is stronger, let the article end early.
 
-最后一段重新概括全文，即使概括得很漂亮，也先删掉。前文已经讲明白的内容不需要再证明一次。
+When the last paragraph re-summarizes the whole text, even beautifully, delete first. Content already explained in the body doesn't need another proof.
 
-搜索“时代、文明、未来、世界、历史、奇迹、所有人、全人类”。正文没有持续处理这个尺度，结尾回到具体事实、人物动作或当前判断。用户指定的题目自带这类大词时，标题照用户的写，这条只管正文和结尾。
+Search "era, civilization, future, world, history, miracle, everyone, all humanity." Without sustained handling in the body, ending returns to concrete facts, character actions or current judgment. When the user-specified topic already carries these big words, titles follow user's version; this only checks body and ending.
 
-开头物件在结尾回来时，确认读者对它的理解已经改变。含义没变，不必回来打卡。
+When opening objects return at ending, confirm the reader's understanding has changed. When meaning hasn't changed, no need to return to check in.
 
-## 使用检查脚本
+## Using Check Scripts
 
-长稿保存为文本或 Markdown 后运行下面的命令。
+After saving long pieces as text or Markdown, run the command below.
 
 ```text
-python3 scripts/check_prose.py 稿件.md
+python3 scripts/check_prose.py draft.md
 ```
 
-脚本会把冒号、破折号、翻案句、硬停词、模型路标和绝对禁用的黑话判为失败。它会把需要结合语境判断的词列为提醒，还会提醒短句排队、段落过度单一、固定开场与多套比喻。
+The script flags colons, dashes, reversal sentences, hard-stop words, model signposts and absolute-ban jargon as failures. It lists words needing context judgment as warnings and alerts on short-sentence lining up, paragraph over-uniformity, fixed openings and multiple metaphor sets.
 
-脚本只负责发现形状，不能判断文章有没有人。警告项需要回到材料与说话位置人工判断。诗歌、剧本和实验写作只把脚本失败项当成硬要求，散文形状警告服从具体文体。
+Scripts handle shape discovery only; can't judge whether articles have people. Warnings need returning to materials and speaking position for human judgment. Poetry, scripts and experimental writing only take script failures as hard requirements; prose shape warnings follow specific genres.
 
-## 最后冷读
+## Final Cold Read
 
-暂时忘掉所有规则，只回答下面几句。
+Temporarily forget all rules; only answer these.
 
-哪里让我相信作者确实知道这件事。
+Where do I believe the author really knows this.
 
-哪里让我愿意继续读。
+Where do I want to keep reading.
 
-哪一段像人在处理一个问题，哪一段像模型在完成写作任务。
-
-哪句话说得比材料大。
-
-文章在哪一句已经结束。
+Which paragraph shows someone handling a problem, which shows a model completing a writing task.

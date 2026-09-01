@@ -1,119 +1,119 @@
-# 现实题材多一层事实核验
+# Reality Topics Add One Layer of Fact Verification
 
-这份文件用于真人、历史、新闻、产品、行业、数据、教程、评测、商业稿和用户亲历。
+This file is for real people, history, news, products, industries, data, tutorials, reviews, business content and user direct experience.
 
-事实核验留在后台。它负责让文章站得住，不能接管文章的口气。
+Fact verification stays backstage. Keeps articles standing; can't take over article's tone.
 
-## 读这份文件的顺序
+## Reading Order for This File
 
-- [材料和来源](#先分清材料身份)
-- [用户经历](#用户经历不能代写)
-- [人物与历史](#人物故事先找真实压力)
-- [新闻、产品和行业](#新闻与产品先确认进行到哪一步)
-- [数据与判断](#数据写完继续走一步)
-- [来源交付](#来源怎样交付)
+- [Materials and sources](#first-separate-material-identity)
+- [User experience](#user-experience-can't-be-written-for-them)
+- [Characters and history](#character-stories-first-find-real-pressure)
+- [News, products and industry](#news-and-products-first-confirm-which-stage)
+- [Data and judgment](#data-runs-one-more-step-after)
+- [Delivering sources](#how-to-deliver-sources)
 
-## 先分清材料身份
+## First Separate Material Identity
 
-内部把重要材料分成五类。
+Internally sort important materials into five types.
 
-1. 可靠来源能直接证明的事实。
-2. 公司、机构或当事人的自述。
-3. 旁人回忆和媒体概括。
-4. 作者依据材料作出的推断。
-5. 目前不知道的地方。
+1. Facts that reliable sources directly prove.
+2. Self-description by companies, institutions or persons involved.
+3. Others' memory and media summary.
+4. Author reasoning from materials.
+5. Currently unknown places.
 
-记录时间、来源和口径。职位、政策、价格、产品能力、许可证和软件版本会变化，写作前重新确认。
+Record time, source and account. Position, policy, price, product capability, licenses and software versions change; re-confirm before writing.
 
-优先找一手材料、正式文件、论文、监管资料和当事人完整访谈。媒体适合补背景与交叉核对。来源互相冲突，不能挑最适合故事的一条写死。
+Prioritize first-hand materials, official documents, papers, regulatory info and complete interviews with parties involved. Media works for background and cross-checking. When sources conflict, can't pick the most story-fitting one and write it dead.
 
-## 正文只保留读者需要知道的归属
+## Body Only Keeps Attribution Reader Needs
 
-确定事实直接写。公司自述、旁人回忆和争议说法，第一次出现时说明是谁的说法。
+Write certain facts directly. Company self-description, others' memory and disputed statements—on first appearance, say whose claim. 
 
-未知会改变人物评价、全文结论或读者行动时，正文交代一次。其余疑点删掉或放进来源说明。
+When unknowns would change character assessment, whole piece conclusion or reader action, mention in body. Other gaps delete or put in source notes.
 
-连续出现“公开资料显示”“目前无法确认”“可以确认的是”，说明核验笔记漏进了正文。退回后台重新组织。
+Continuous "public materials show," "currently unconfirmed," "what can be confirmed is"—means verification notes leaked into body. Return backstage and reorganize.
 
-如果整篇都靠来源归属和“无法确认”维持长度，说明材料不足。把最重要的缺口在开头附近交代一次，详细出处放到文末，正文继续讲已经成立的人与事。
+If entire piece relies on source attribution and "unconfirmed" for length, materials are insufficient. Put the most critical gap near the opening; detail sources at end; body continues with what's already solid—people and things.
 
-文章完全依靠公开材料时，开头附近应当留下一处真实的检索痕迹。例如“我把能找到的履历和采访对了一遍，这三年的材料其实很少”。这能说明作者凭什么往下讲。后面不用每隔两段重新证明作者很谨慎。
+When article fully depends on public materials, leave one real research trace early on. Example: "I compared available resumes and interviews; materials from these three years are actually sparse." Shows why author continues from here. Later sections don't need re-proving the author is careful every two paragraphs.
 
-## 用户经历不能代写
+## User Experience Can't Be Written for Them
 
-用户说“看见”，不能扩成“试过”。用户给了一张截图，不能补注册、付款和成功运行。用户记不清原话，写大意或请他确认。
+User says "saw," don't expand into "tried." User gives a screenshot, don't add signup, payment and successful running. User forgets exact wording, write the gist or ask confirmation.
 
-确实需要个人材料时，最多问三句。做了什么，哪里出乎意料，现在怎样理解。用户要求先写，就用现有信息完成，缺口保持诚实。
+When really needing personal materials, ask maximum three questions. Did what, what surprised you, how do you understand it now. Users want you to write first; use current info to complete, keep gaps honest.
 
-用户允许改成小说时，可以重组与创造。交付形式要让读者知道它经过虚构处理。
+When users allow converting to fiction, can rearrange and create. Delivery form needs readers to know it's been fictionalized.
 
-## 人物故事先找真实压力
+## Character Stories First Find Real Pressure
 
-先整理时间线，再检查因果与动机。
+First organize timeline, then check causality and motivation.
 
-资料能证明人物作过选择，才写选择。资料只证明他离开一家公司、去了另一座城市，就写动作、当时条件和后来结果。
+Materials can prove character made choices—write choices. Materials only show they left one company, went to another city—write actions, then-conditions and later results.
 
-后来成功不能倒过来证明早年的每一步都有远见。毕业、搬家和换工作也不会自动成为命运关口。
+Later success can't prove early steps all had foresight. Graduation, moving and job changes also don't automatically become fate-turning moments.
 
-人物稿的张力可以来自这些地方。
+Character piece tension can come from these places.
 
-- 收入突然中断。
-- 一项技术始终跑不通。
-- 合作关系发生变化。
-- 市场规则和工具改变。
-- 手里的钱、时间与人都不够。
-- 一个确有记录的决定带来后果。
+- Income suddenly stopped.
+- One technology kept failing.
+- Partnership relationships changed.
+- Market rules and tools shifted.
+- Money, time and people weren't enough.
+- A documented decision brought consequences.
 
-来源没有天气、神态、房间、对白和心理，就不要补。资料太少时，补经过核准的行业与时代背景，或者缩短文章。
+When sources lack weather, expression, rooms, dialogue and psychology, don't supplement. When materials run thin, supplement verified industry and era backgrounds, or shorten the article.
 
-背景也要改变人物的条件。只增加年代气氛、术语解释和后见之明，仍然是在凑篇幅。
+Background also must change character conditions. Only adding era mood, terminology explanation and hindsight—still padding.
 
-## 历史叙事分开三件事
+## History Narrative Separates Three Things
 
-先后只说明两件事按时间发生。
+Sequence only shows two things happened one after another.
 
-因果说明前一件事促成后一件事。
+Causality shows one thing made the next happen.
 
-动机说明人物因为某个想法采取行动。
+Motivation shows someone had a thought and took action.
 
-来源只支持先后，不能用“于是”“因此”“这让他决定”偷偷补出因果。来源没有人物自述，不能替他写内心独白。
+When sources only support sequence, can't smuggle causality in using "so," "therefore," "this made him decide." Without character self-description, can't write their inner monologue.
 
-历史故事的压力往往已经在材料里。地理、兵力、制度、可选道路和失败后果讲清楚，人物自然会显出来。
+History story pressure often lives in materials already. Geography, military strength, systems, available paths and failure costs—say them clearly; character naturally shows up.
 
-## 新闻与产品先确认进行到哪一步
+## News and Products First Confirm Which Stage
 
-分开记录已经开放、邀请测试、宣布即将提供、长期愿景与行业猜测。
+Separate record: already open, beta testing, announced coming soon, long-term vision, industry speculation.
 
-标题只写到当前事实允许的位置。正文承认“尚未开放”，救不回一个已经写大的标题。
+Titles only write to where current facts allow. Body admits "not yet open," can't save an already-written big title.
 
-官方材料解决“发布方想让人怎样理解”。作者还要解决“一名普通读者实际会碰到什么”。可以补限制、成本、真实流程、受影响的人或一个发布方没有回答的问题。
+Official materials solve "how does the publisher want this understood." Authors also solve "what does an ordinary reader actually encounter." Can add limits, costs, real process, affected people or one unanswered question.
 
-没有新增材料时，交一篇准确说明稿。不要伪装成独家洞察。
+Without new materials, deliver an accurate-description piece. Don't fake independent insight.
 
-## 行业影响落到具体角色
+## Industry Impact Falls to Specific Roles
 
-写清谁购买，谁部署，谁付钱，谁多做一项工作，谁可能失去订单，出错以后谁负责，旧办法在哪一步最难受。
+Write clear: who buys, who deploys, who pays, who does extra work, who might lose orders, who's responsible for errors, which step the old way suffers most.
 
-公司名单列到能证明趋势就停。挑角色不同的两三个例子讲清关系，剩下的一句带过。
+Company lists to enough proving trend—stop. Pick two or three roles in different positions; explain the relationship clearly; rest in one sentence.
 
-判断市场很大以前，先找最早愿意付钱的人、他眼下的麻烦和第一道限制。
+Before saying the market is huge, first find earliest willing-to-pay person, their current pain point and first limiting factor.
 
-## 数据写完继续走一步
+## Data Runs One More Step After
 
-核对时间、单位、样本、口径和比较对象。百分比与百分点分开。
+Verify time, units, samples, accounting and comparison objects. Percent and percentage points separate.
 
-数字后面说明它会让谁多花多少时间，少付多少钱，增加哪种选择，或受到什么限制。一个案例只能说明一角，不能自动代表整个行业。
+After the number, say which person spends how much more time, saves what money, gets which choice, or hits what limit. One case only proves one angle; can't automatically represent the whole industry.
 
-## 判断要有边界
+## Judgments Need Limits
 
-先把反方最有力的理由讲准确，再说当前材料下更相信哪种解释。
+First state the strongest opposing reasoning accurately, then say which explanation the current materials better support.
 
-边界说明一次就够。每句话都加“可能”“或许”“不能排除”，作者会从文章里消失。
+Say limits once. Adding "possibly," "perhaps," "can't rule out" to every sentence makes the author vanish from the article. 
 
-建议要带成本和适用条件。商业、医疗、法律与金融内容要区分一般信息、证据结论和针对个人的建议。
+Suggestions need cost and conditions. Business, medical, legal and financial content distinguish general information, evidence conclusions and advice for individuals.
 
-## 来源怎样交付
+## How to Deliver Sources
 
-用户只要文章，正文保持顺畅，按需要在文末列关键来源。来源原题含有禁用标点时，链接文字改用准确的短说明，网址保持原样。
+Users just want articles—body stays smooth; list key sources at end where needed. When original source titles have prohibited marks, change the link text to accurate short description; keep URLs original. Uncomplicated pieces skip sources entirely.
 
-用户要求逐项核验，再提供事实表或注释。链接用来证明事实，不能替代作者解释。
+Users ask line-by-line verification; then provide fact tables or notes. Links prove facts; can't replace author explanation.

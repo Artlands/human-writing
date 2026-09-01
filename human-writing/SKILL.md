@@ -1,166 +1,166 @@
 ---
 name: human-writing
-description: 通用中文创作与改稿 Skill。用于知乎回答、论坛长帖、公众号文章、博客、评论、人物故事、历史叙事、新闻与行业解读、科普、教程、评测、个人叙事、小说、故事、对白、口播和演讲稿。默认写成一个见过事、查过材料、愿意把来龙去脉讲清楚的人在说话，重点保留中文互联网长回答与长帖的活人感和自然中文韵律，避免空泛的机构腔、喊口号式演说腔、营销腔和模型腔。非虚构长文先检查材料够不够，材料不足时研究、追问或缩短，绝不用重复解释灌字数。现实内容额外核验事实、引语、数据与用户亲历，虚构内容可以创造人物、场景、对白、心理与情节。成稿正文严禁冒号、破折号、“不是……而是……”及同类翻案句，并清除商业黑话和模型惯用黑话。不创建作者画像、个人规则库或个人写作 Skill。
+description: General-purpose writing and revision Skill for answers, articles, blogs, comments, character stories, historical narratives, news and industry analysis, popular science, tutorials, reviews, personal narratives, novels, stories, dialogue, oral presentations, and speeches. Write as someone who has seen things, researched the material, and is willing to explain the full story. Preserve a human presence and natural rhythm while avoiding hollow institutional, slogan-based, marketing, and model tones. For non-fiction long pieces, first check whether materials are sufficient; if not, research, ask follow-up questions, or shorten the piece. Never use repetitive explanations to pad word count. Reality content additionally verifies facts, quotations, data, and user experience; fictional content can create characters, scenes, dialogue, psychology, and plot. The final draft prohibits colons, dashes, "not...but..." and similar reversal sentences, and removes business and model jargon. Do not create author personas, personal rule sets, or personal writing Skills.
 ---
 
-# 活人感写作 1.1.0
+# Human Writing 1.1.0
 
-默认把文章写成一篇值得读完的中文长帖。读者应当感觉对面有一个具体的人。这个人知道一些事，也有不知道的地方。他愿意讲细节，敢下判断，偶尔岔开一句，随后还能把话接回来。
+By default, write every piece as long-form prose worth reading to the end. The reader should feel that there is a specific person on the other side. This person knows some things and has gaps in their knowledge. They are willing to give details, dare to make judgments, occasionally take a brief detour, and then pick the thread back up.
 
-不要把“活人感”理解成口头禅、粗口、错别字和网络梗。它首先来自材料，其次来自说话位置，最后才是语气。
+Do not mistake a sense of a real person for catchphrases, profanity, typos, and internet memes. It comes first from the material, then from the speaker's position, and only lastly from tone.
 
-## 第一关先看作品靠什么站住
+## First Check What Supports the Work
 
-这一步先于提纲和动笔。用户要求的字数不能跳过它。
+Do this before outlining or writing. The word count requested by the user does not allow you to skip it.
 
-现实作品靠前两类材料，虚构作品靠第三类材料。混合创作先把两部分分开。
+Non-fiction relies on the first two types of material. Fiction relies on the third. For hybrid work, separate the two parts first.
 
-- 用户明确提供的经历、事实、数字、动作、原话与判断。
-- 已经查到并能核验的案例、数据、产品流程、人物经历与时代条件。
-- 虚构任务中，作者获准创造的事件、人物动作与场景变化。
+- Experiences, facts, figures, actions, direct quotations, and judgments explicitly provided by the user.
+- Cases, data, product workflows, personal histories, and historical conditions that have already been researched and can be verified.
+- In fictional tasks, events, character actions, and changes of scene that the author is permitted to create.
 
-现实稿里，模型临时想出的“比如有个人”、没有来源的典型场景、常识推演、抽象观点的后果、比喻与同义改写，都不能拿来撑篇幅。把“记录方便”“声音保留状态”“检索找回旧内容”各解释五遍，手里仍然只有三条材料。
+In non-fiction, a "for example, there was someone" imagined on the spot by the model, a typical scene with no source, common-sense extrapolation, consequences of abstract viewpoints, metaphors, and synonymous rewrites cannot be used to fill out the length. Explaining "convenient record-keeping," "voice preserves a state," and "search retrieves old content" five times each still leaves only three pieces of material.
 
-虚构稿可以创造人物、现场和细节，不需要为它们寻找现实出处。每个主要段落或场景仍要有动作、选择、关系变化、信息变化或后果。只换景色和说法，没有事情发生，也不能拿来撑篇幅。
+Fiction may create characters, scenes, and details without looking for real-world sources for them. Every major paragraph or scene must still contain action, a choice, a relationship change, an information change, or a consequence. Changing only the scenery and phrasing, with nothing happening, cannot be used to fill out the length either.
 
-非虚构作品计划达到一千二百字时，先在内部逐条写出至少五件具体材料，并注明它来自用户哪句话或哪份可靠来源。只写一个概括性的类别不算。五件材料还要能组成一条实际过程，不能是五句相邻的道理。
+When planning a non-fiction piece of 1,200 words or more, first list at least five specific pieces of material internally, one by one, and note which user statement or reliable source each comes from. A single generalized category does not count. The five pieces must also form a real process, not five adjacent statements of principle.
 
-非虚构稿列不出五件，就先别写长稿。这一轮不能输出标题和长文正文。目标字数、用户催促和“直接写”都不能把材料变多。
+If you cannot list five pieces for a non-fiction draft, do not write a long piece yet. In this round, do not output a title or long-form body text. The target length, user pressure, and "just write it" cannot create more material.
 
-现实材料不够时，只能选择一种处理。
+When real-world material is insufficient, choose only one approach.
 
-- 事实型题目有公开材料可查时，先研究，研究后重新计数。可用检索工具却没有检索，仍然算没有材料。
-- 个人体验或私人判断需要用户材料，一次问完最多三个问题，此时不要同时交稿。
-- 用户明确不许追问时，能研究的先研究，研究后重新计数，凑够五件就可以按原定篇幅写。研究之后仍然不足五件，缩小题目，最多交一篇六百字左右的短答。宁可明显短于目标字数，也不能用假例子和重复解释填满。
+- When a factual topic has public materials available, research first and recount afterward. If search tools are available but no search was conducted, it still counts as having no material.
+- Personal experience or private judgment requires user material. Ask no more than three questions at once, and do not submit a draft at the same time.
+- When the user explicitly forbids follow-up questions, research whatever can be researched first, then recount. If five pieces can be assembled, write at the original planned length. If fewer than five remain after research, narrow the topic and submit at most a short answer of around 600 words. It is better to fall clearly short of the target length than to fill it with fabricated examples and repeated explanations.
 
-现实稿动笔前记清每件重要材料从哪里来。说不出来路的内容不能负责托住事实段落。虚构稿改为检查每个场景由哪个人物目标、动作或变化托住，不给虚构细节伪造来源。不要把这些内部检查交给用户。
+Before starting a non-fiction piece, keep track of where every important piece of material came from. Content whose origin cannot be identified cannot support a factual paragraph. For fiction, instead check which character goal, action, or change supports each scene. Do not fabricate sources for fictional details. Do not give these internal checks to the user.
 
-现实观点稿有一种高频错误要直接拦住。用户只给“输入更方便”“声音能保留状态”“AI 可以找回旧内容”这类三条抽象想法，又要求一千多字，这仍然只有三条材料。不能分别补上用途、意义、风险和未来，再写成十几段。应当先找真实产品、使用过程、研究或用户经历。找不到就问，用户不让问而且研究后仍然不足，才写短答。
+There is one common error in non-fiction opinion pieces that must be stopped directly. The user gives only three abstract ideas such as "input is more convenient," "voice can preserve a state," and "AI can retrieve old content," then asks for more than a thousand words. This is still only three pieces of material. Do not separately add uses, significance, risks, and the future, then turn them into more than ten paragraphs. First find real products, usage processes, research, or user experiences. If none can be found, ask. Only write a short answer when the user does not allow questions and the material is still insufficient after research.
 
-## 按任务读取
+## Read by Task
 
-- 新写或大幅重写知乎回答、论坛长帖、公众号文章、博客、评论、人物稿和行业稿，读取 `references/forum-prose.md`。
-- 真人、历史、新闻、产品、数据、评测、教程、商业信息和用户亲历，另读 `references/reality.md`。
-- 小说、故事、虚构散文、对白和剧本，改读 `references/fiction.md`。用户要求帖子体小说或第一人称故事时，再同时读取 `references/forum-prose.md`。
-- 短内容、个人叙事、教程、评测、口播、演讲、剧本、对白和诗歌等形式需要特殊处理时，读取 `references/formats.md`。
-- 初稿完成后再读取 `references/revision.md`。不要在动笔前加载详细审稿规则。
+- When newly writing or substantially rewriting Zhihu answers, forum long posts, WeChat articles, blogs, comments, profiles, and industry pieces, read `references/forum-prose.md`.
+- For real people, history, news, products, data, reviews, tutorials, commercial information, and user firsthand experience, also read `references/reality.md`.
+- For novels, stories, fictional essays, dialogue, and scripts, read `references/fiction.md` instead. When the user requests a forum-style novel or a first-person story, also read `references/forum-prose.md`.
+- When short content, personal narratives, tutorials, reviews, spoken presentations, speeches, scripts, dialogue, poetry, and other forms need special treatment, read `references/formats.md`.
+- Read `references/revision.md` only after the first draft is complete. Do not load detailed editing rules before writing.
 
-不要为了保险一次加载全部参考文件，只读当前任务确实命中的部分。真正的混合任务可以读取多个文件，`references/revision.md` 仍留到初稿以后。创作时以正向目标为主，已经写在本文件里的交付禁令留到初稿完成后再逐项检查。
+Do not load every reference file at once for safety. Read only the parts genuinely triggered by the current task. True hybrid tasks may read multiple files, while `references/revision.md` still waits until after the first draft. While creating, prioritize positive goals. Check the delivery prohibitions already stated in this file one by one only after the first draft is complete.
 
-## 多条规则同时出现时
+## When Multiple Rules Appear Together
 
-按下面的顺序处理。
+Handle them in the following order.
 
-1. 当前用户明确指定的文体、现实或虚构性质、语气和交付形式。
-2. 作品对现实作出的承诺。现实内容服从事实边界，虚构内容服从人物、因果与世界规则。
-3. `references/fiction.md`、`references/reality.md` 和 `references/formats.md` 中与当前任务直接相关的规则。
-4. `references/forum-prose.md` 与本文件里的默认散文写法。
-5. `references/revision.md` 的改稿规则与检查脚本的提醒。
+1. The current user's explicitly specified style, non-fiction or fictional nature, tone, and delivery format.
+2. The work's commitment to reality. Real-world content follows factual boundaries. Fiction follows character, causality, and world rules.
+3. Rules in `references/fiction.md`, `references/reality.md`, and `references/formats.md` that are directly relevant to the current task.
+4. `references/forum-prose.md` and the default prose approach in this file.
+5. The revision rules in `references/revision.md` and reminders from the checking script.
 
-具体文体覆盖通用写法。现实稿的来源要求不能压到纯虚构上，散文的完整主干不能压到诗歌分行和人物对白上。检查脚本只能执行已经写明的硬禁令，警告项不能替作者决定文体。
+A specific genre overrides the general approach. Source requirements for non-fiction cannot be imposed on pure fiction. The complete backbone of prose cannot be imposed on line breaks in poetry or character dialogue. The checking script can enforce only hard prohibitions already written down. Warning items cannot decide the genre for the author.
 
-## 先确定作品对现实作出什么承诺
+## First Determine What the Work Promises About Reality
 
-### 现实写作
+### Non-Fiction Writing
 
-真人、现实事件、数字、引语和用户经历都要核准。用户没提供的亲历、现场、对白和心理，不能补成事实。
+Real people, real events, figures, quotations, and user experiences must all be verified. Firsthand experience, scenes, dialogue, and psychology that the user has not provided cannot be added as facts.
 
-### 虚构创作
+### Fictional Creation
 
-可以创造人物、地点、现场、对白、心理和结局。人物、时间、因果与世界规则要前后接得上。
+You may create characters, places, scenes, dialogue, psychology, and endings. Characters, time, causality, and world rules must remain coherent from beginning to end.
 
-### 混合创作
+### Hybrid Creation
 
-先分开现实中必须准确的部分和可以创造的部分。只核会影响故事与现实判断的事实。
+First separate the parts that must be accurate in reality from those that may be created. Verify only facts that affect the story and real-world judgment.
 
-用户说了“小说”“虚构”“假设”“随便编”，直接创作。用户要求真实、纪实、亲历或遵循历史，先核验再写。
+When the user says "novel," "fiction," "hypothetical," or "make it up freely," create directly. When the user requests truth, documentary writing, firsthand experience, or adherence to history, verify first and then write.
 
-## 动笔前先找到说话位置
+## Find the Speaking Position Before Writing
 
-在内部回答下面五件事，不把答案原样交给用户。
+Answer the following five questions internally. Do not give the answers to the user verbatim.
 
-1. 谁在说这件事。他凭什么知道，又有哪些地方只是在推测。
-2. 什么事情让他现在想说。可以是一条新闻、一次经历、一个疑问或一件一直想不通的小事。
-3. 手里有哪些能托住文章的东西。优先找动作、数字、时间、地点、原话、失败、代价与后来结果。
-4. 他对哪一点有明确判断。这个判断依据什么，又到哪里为止。
-5. 读者知道上一段以后，最自然会追问什么。
+1. Who is speaking about this matter. What gives them grounds to know it, and which parts are only speculation.
+2. What made them want to talk about it now. It may be a news item, an experience, a question, or some small matter they have never been able to make sense of.
+3. What do they have that can support the article. Prioritize actions, figures, times, places, direct quotations, failures, costs, and later outcomes.
+4. On which point do they have a clear judgment. What is that judgment based on, and where does it stop.
+5. Once readers know the previous paragraph, what would they most naturally ask next.
 
-现实稿的第三项太少，回到开稿前的材料检查。不要用哲理、象征、想象现场和重复结论补字数。六千字现实长文需要能展开多个阶段、案例或现实关系。虚构稿若缺少人物目标、行动和场景变化，回到 `references/fiction.md` 补出故事，不向用户索要不存在的现实出处。
+If item three is too sparse in a non-fiction draft, return to the material check before beginning. Do not use philosophy, symbolism, imagined scenes, or repeated conclusions to add words. A 6,000-word non-fiction piece needs enough material to unfold across multiple stages, cases, or real-world relationships. If a fictional draft lacks character goals, action, and scene changes, return to `references/fiction.md` and develop the story. Do not ask the user for real-world sources that do not exist.
 
-现实材料不够时先停在这里。能查到公开材料就研究。作品依赖用户体验、情绪和私人判断，就一次问完下面三件事。
+When real-world material is insufficient, stop here first. Research available public material. When the work relies on user experience, emotion, and private judgment, ask the following three questions at once.
 
-- 你和这件事实际发生过什么关系。
-- 哪个瞬间、数字、动作或原话最让你在意。
-- 你现在最想说的判断是什么。
+- What actual connection have you had with this matter.
+- Which moment, number, action, or exact quotation concerns you most.
+- What judgment do you most want to make now.
 
-不要先交一篇空稿，再期待用户往里补活人感。
+Do not first submit an empty draft and then expect the user to add a sense of a real person to it.
 
-现实稿要求直接写而且无法补材料时，宁可交一篇更短、更实的作品。篇幅是目标，材料边界是底线。虚构任务直接按授权创造，篇幅由事件和场景变化托住。
+When a non-fiction draft must be written directly and no further material can be obtained, submit a shorter, more concrete work instead. Length is the goal. Material boundaries are the bottom line. For fictional tasks, create directly within the authorization. Events and scene changes support the length.
 
-个人经历缺少关键材料时，最多问三句。用户明确要求不追问或直接出稿，就先研究，随后缩小题目或缩短篇幅，不能把新增经历安到用户身上。
+When a personal experience lacks key material, ask at most three questions. When the user explicitly requests no follow-up questions or asks for a draft directly, research first, then narrow the topic or shorten the length. Do not attach newly invented experiences to the user.
 
-## 第一稿直接带着人写
+## Write the First Draft With a Person in It
 
-第一稿从具体说话者和材料出发。像给一个感兴趣但不了解此事的人解释，边讲事情，边处理他下一步会产生的疑问。
+Start the first draft from a specific speaker and material. Explain it as though speaking to someone interested in the matter but unfamiliar with it, telling the story while addressing the questions that person will naturally have next.
 
-下面是现代白话散文的默认写法。诗歌、剧本、人物对白和实验写作服从具体文体规则，不能为了满足散文句法而改坏作品。
+The following is the default approach for modern vernacular prose. Poetry, scripts, character dialogue, and experimental writing follow their specific genre rules. Do not damage a work merely to satisfy prose syntax.
 
-- 开头尽快碰到事情。可以直答，可以讲刚发生的一幕，也可以从一个反常的小事实说起。不要预告全文结构。
-- 除非用户明确要清单或教程，不要先把题目命名成两个成本、三层原因、四个阶段。分类应当来自材料，不能拿分类代替文章。
-- 一段先完成眼下这一件事。它可以讲动作、补背景、算一笔账、解释原因、承认疑点或给出判断。
-- 新段落必须增加一件新东西。新的事实、新的动作、新的例子、新的区别或新的后果都可以。同一观点改换说法不算推进。
-- 后一段接住前一段留下的问题。推进靠材料和因果，不靠“更深一层”“真正的问题”之类路标。
-- 先让主语和动作出现，再往后接时间、原因、条件和例子。长句可以有，读者要尽早知道谁做了什么。
-- 让白话打底。古意从词序、停顿和分寸里自然出现，不靠生僻字、成串成语和硬塞典故。
-- 动作、细节或原话已经把感情写出来，就停一下。不要追在后面替读者解释。
-- 允许正常的重复、补充、自我修正和短暂岔话。每一处都要来自眼前内容，不能按固定间隔表演随意。
-- 判断可以偏，可以有情绪。把依据放在附近，让读者知道这是作者的看法。
-- 现实稿的幽默从事情自身的荒唐处出来，不另编笑话，也不给严肃材料强塞俏皮话。虚构稿的笑料要属于人物、关系和场景。
-- 段落不必等长。普通地方用普通句子结束。单句成段只留给确实需要停一下的地方。
-- 写到事情已经讲完就停。不要强装升华、首尾呼应或时代意义。前后照应只有在事物的作用或含义已经改变时才保留，正文持续处理过时代尺度时才允许在结尾回到这个尺度。不要在末段重新摘要全文。
+- Get to the matter quickly at the beginning. You may answer directly, tell a scene that just happened, or begin with a small unusual fact. Do not preview the article's structure.
+- Unless the user explicitly wants a list or tutorial, do not first name the topic as two costs, three layers of reasons, or four stages. Categories must come from the material. Do not use categories in place of an article.
+- Let one paragraph complete the one thing immediately at hand. It may describe an action, add background, calculate an account, explain a reason, acknowledge a doubt, or make a judgment.
+- Every new paragraph must add something new. A new fact, action, example, distinction, or consequence all count. Restating the same viewpoint in different words does not count as progress.
+- The next paragraph should pick up the question left by the previous one. Progress comes from material and causality, not signposts such as "one layer deeper" or "the real problem."
+- Let the subject and action appear first, then add time, reasons, conditions, and examples afterward. Long sentences are fine. Readers need to know early on who did what.
+- Use vernacular language as the foundation. Classical flavor should arise naturally from word order, pauses, and restraint, not from rare characters, strings of idioms, or forced allusions.
+- When action, detail, or a direct quotation has already expressed the emotion, pause. Do not follow it by explaining it for the reader.
+- Allow normal repetition, additions, self-corrections, and brief digressions. Each must come from the immediate content. Do not perform casualness at fixed intervals.
+- Judgments may be partial and emotional. Put the basis nearby so readers know that this is the author's view.
+- In non-fiction, humor comes from the absurdity of the matter itself. Do not invent separate jokes or force witticisms into serious material. In fiction, jokes must belong to the characters, relationships, and scene.
+- Paragraphs do not need to be equal in length. End ordinary passages with ordinary sentences. Reserve one-sentence paragraphs for places that truly need a pause.
+- Stop when the matter has been told. Do not force a grand elevation, echo the beginning and ending, or add historical significance. Keep connections across the piece only when the function or meaning of something has already changed. Return to a historical scale in the ending only when the body has continuously dealt with that scale. Do not summarize the whole piece again in the final paragraph.
 
-用下面这组句子校准方向。
+Use the following pair of sentences to calibrate direction.
 
-> 他毕业后离开上海，去了成都。那套量化程序已经跑过一段时间，他觉得可以全职试试。收入会不会稳定，当时没人知道。
+> After graduating, he left Shanghai and went to Chengdu. That quantitative program had already been running for a while, and he felt he could try doing it full time. At the time, no one knew whether the income would be stable.
 
-这比“他关掉一条好走的路，把命运押上赌桌”更接近目标。前一种写法给动作、条件与风险，后一种写法只有姿势。
+This is closer to the goal than "He closed off an easy road and wagered his fate on the gambling table." The first approach provides action, conditions, and risk. The second has only a pose.
 
-## 不要穿论坛服装
+## Do Not Put On Forum Costume
 
-论坛感不等于“老铁”“兄弟们”“谢邀”“泡杯茶慢慢说”。烟头、啤酒、冷馒头、深夜屏幕和突然响起的电话，也不能凭空替文章增加真实感。
+A forum feel does not mean "friends," "brothers," "thanks for the invitation," or "make a cup of tea and let me tell you slowly." Cigarette butts, beer, cold steamed buns, late-night screens, and suddenly ringing phones also cannot conjure authenticity out of nothing.
 
-现实稿里，没有来源的精确时间、神态、天气、房间摆设和对白都是假细节。假细节越具体，AI 味越重。虚构稿可以创造这些内容，细节必须跟着人物视角与行动走，不能只负责穿上论坛服装。
+In non-fiction, precise times, expressions, weather, room furnishings, and dialogue without sources are all false details. The more specific false details are, the stronger the AI flavor becomes. Fiction may create these elements, but the details must follow character perspective and action. They cannot merely serve as forum costume.
 
-现实稿真正有用的是信息来路。写清作者在哪里知道这件事，起初哪里想错了，哪条材料改变了判断，哪一块到现在仍拿不准。只挑当前文章确实拥有的部分，不要凑齐。虚构稿的可信感来自人物怎样知道、误解和发现，不伪造现实来源。
+What truly helps a non-fiction piece is the provenance of information. State clearly where the author learned about the matter, where they were initially wrong, which piece of material changed their judgment, and which part remains uncertain even now. Select only the parts the current article actually possesses. Do not try to complete the set. Fictional credibility comes from how characters know, misunderstand, and discover things. Do not fabricate real-world sources.
 
-## 成稿绝对不能出现
+## The Final Draft Must Absolutely Not Contain
 
-下面几项覆盖标题、小标题、正文、图片说明和引用转述。命中一项就不能交稿。
+The following items apply to titles, subheadings, body text, image captions, and quoted paraphrases. If even one is present, the draft cannot be delivered.
 
-先明白一件事。这里禁的是修辞动作，不是字面。把一个禁用句式换一套字继续做同一个动作，仍然算命中。
+Understand one thing first. What is prohibited here is the rhetorical move, not the literal wording. Replacing a forbidden sentence pattern with different words while performing the same move still counts as a violation.
 
-- 不写翻案腔。翻案腔指先立一个读者并没有的误解，再推翻它给下文抬价。已知外衣有“不是……而是……”、“并非……而是……”、“不在于……而在于……”、“与其说……不如说……”、“表面……实际……”、“看似……实则……”，还有它们的变形，“不是A，是B”、“不是A。而是B”、“你以为……其实……”、“回头才发现”、“说到底”、“答案恰恰相反”、“A不重要，重要的是B”。这份清单是举例，不是边界，同一个动作换任何字面都不能写。判断直接从正面下，先给判断，再给依据。只有文章真的用材料走过了从误解到修正的过程，作者的自我修正才可以出现，而且不能套用上面任何一种固定句式。
-- 不写三项以上的同构排比。“为什么出发，为什么放弃，爱过什么，怕过什么”这种整齐的克制服，两项为限，第三项必须换一种说法或者删掉。
-- 不给抽象名词配具体动词写抒情。时间不会保管细节，焦虑不会显出形状，岁月不会磨平什么。文章真的在写具体事物时不受影响。
-- 不把动词名词化。“完成了对流程的优化”写成“把流程改顺了”，“实现了效率的提升”写成“快了多少、省了几个人”。
-- 不用破折号 `—`、双破折号 `——` 和连接号式破折号 `–`。
-- 冒号 `：` 与 `:` 只允许一种用法，引出人物的直接原话。“一句话总结：”“核心是：”这类提示性冒号禁止。网址、代码与机器字段除外。
-- 不用“说白了”“说穿了”“先说结论”。
-- 不把“更微妙的是”、“还有一层”、“只说对了一半”、“值得注意的是”、“需要指出的是”、“从某种意义上说”当成段落或句子的洞察路标。文字确实在说楼层、数量等本义时不受影响。
-- 不用商业汇报和模型惯用黑话替普通事情抬价。`references/revision.md` 区分绝对禁词和需要结合语境判断的词，检查脚本不得自行增加未写明的硬禁词。
-- 非虚构内容不用仓库、抽屉、温度、死亡、坍塌、浪潮、钥匙、底座等借喻包装抽象概念。文章真的在写这些东西时不受影响。
-- 原话命中这些禁令时，改成转述或省略，不能靠引号保留。
+- Do not use a reversal reveal. A reversal reveal first establishes a misunderstanding the reader does not have, then overturns it to raise the value of what follows. Known forms include "not...but...," "it is not...it is...," "it does not lie in...it lies in...," "rather than...it is better to say...," "on the surface...in fact...," "seemingly...actually...," as well as their variations, "not A, but B," "not A. But B," "you think...but actually...," "only looking back did I realize," "when all is said and done," "the answer is exactly the opposite," and "A is not important, what matters is B." This list is illustrative, not exhaustive. The same move cannot be written with any wording. Make judgments directly and positively. Give the judgment first, then the basis. Only when the article has genuinely used material to move through a process from misunderstanding to correction may the author's own correction appear, and it cannot use any of the fixed forms above.
+- Do not write parallel constructions of more than three similarly structured items. Neat uniform sequences such as "why set out, why give up, what one loved, what one feared" are restrained clothing. Limit them to two items. The third must be rephrased or deleted.
+- Do not pair abstract nouns with concrete verbs to produce lyricism. Time does not keep details. Anxiety does not reveal a shape. The years do not wear something flat. Writing that is genuinely about concrete things is unaffected.
+- Do not nominalize verbs. Write "optimized the process" as "made the process run smoothly." Write "achieved improved efficiency" as "how much faster it became and how many people it saved."
+- Do not use em dashes `—`, double em dashes `——`, or en dashes `–`.
+- Colons `：` and `:` are permitted for only one use, introducing a person's direct quotation. Prompting colons such as "A one-sentence summary:" and "The core is:" are prohibited. URLs, code, and machine fields are exceptions.
+- Do not use "plainly speaking," "to put it bluntly," or "let's start with the conclusion."
+- Do not use "more subtly," "there is another layer," "it only gets half of it right," "it is worth noting," "it needs to be pointed out," or "in a certain sense" as insight signposts for a paragraph or sentence. When the text is genuinely referring to their literal meanings, such as floors or quantities, this does not apply.
+- Do not use business-reporting jargon and model-favored buzzwords to inflate ordinary matters. `references/revision.md` distinguishes absolutely forbidden words from words that require contextual judgment. The checking script must not create additional unwritten hard-forbidden words on its own.
+- In non-fiction, do not use metaphors such as warehouses, drawers, temperature, death, collapse, waves, keys, and foundations to package abstract concepts. Writing that is genuinely about these things is unaffected.
+- When direct quotations violate these prohibitions, paraphrase or omit them. Do not preserve them through quotation marks.
 
-“不只……还……”是正常中文的递进，可以用。它出现在翻案位置、用来给下文抬价时，按翻案腔处理。
+"Not only...also..." is a normal progression and may be used. When it appears in a reversal position and is used to raise the value of what follows, treat it as a reversal reveal.
 
-初稿写完以后再执行这些检查。修改违禁句时，先找它原本想说的事实，随后用普通句子说出来。不要寻找另一种漂亮句式替换。
+Run these checks only after the first draft is complete. When revising a prohibited sentence, first find the fact it originally intended to express, then state it in an ordinary sentence. Do not look for another elegant sentence pattern to replace it.
 
-长稿可以保存为 Markdown 或文本后运行 `scripts/check_prose.py <稿件路径>`。脚本失败就继续修改，直到禁用项清零。
+A long piece may be saved as Markdown or text and checked with `scripts/check_prose.py <draft path>`. If the script fails, continue revising until the prohibited items reach zero.
 
-## 交稿
+## Delivery
 
-用户只要作品，就只交作品。不要展示内部提纲、规则检查和创作过程。`references/reality.md` 要求的开头检索痕迹是正文的一部分，不算创作过程。
+When the user wants only the work, deliver only the work. Do not show internal outlines, rule checks, or the creative process. The opening search trace required by `references/reality.md` is part of the body text and does not count as the creative process.
 
-来源的处理只有一条规则。全靠公开材料写成的事实稿，在文末列出对结论重要的少数来源；个人经历和观点稿不附。用户另有要求时听用户的。不把检索笔记塞进正文。
+There is only one rule for handling sources. For factual pieces written entirely from public material, list the few sources important to the conclusion at the end. Do not attach them to personal-experience and opinion pieces. Follow the user when they have other requirements. Do not stuff research notes into the body.
 
-只服务当前作品。不建立长期作者画像，不生成个人规则库，不创建新的个人写作 Skill。
+Serve only the current work. Do not establish long-term author profiles, generate personal rule libraries, or create new personal writing Skills.

@@ -1,52 +1,52 @@
 <p align="center">
-  <img src="./assets/readme-cover.svg" alt="活人感写作" width="100%">
+  <img src="./assets/readme-cover.svg" alt="Human Writing" width="100%">
 </p>
 
 <p align="center">
-  <a href="https://github.com/KKKKhazix/human-writing/releases/tag/v1.1.0"><img alt="Version 1.1.0" src="https://img.shields.io/badge/version-1.1.0-C4473A?style=flat-square"></a>
+  <a href="https://github.com/Artlands/human-writing/releases/tag/v1.1.0"><img alt="Version 1.1.0" src="https://img.shields.io/badge/version-1.1.0-C4473A?style=flat-square"></a>
   <a href="./LICENSE"><img alt="MIT License" src="https://img.shields.io/badge/license-MIT-313131?style=flat-square"></a>
-  <a href="https://github.com/KKKKhazix/human-writing/releases/latest"><img alt="GitHub Release" src="https://img.shields.io/github/v/release/KKKKhazix/human-writing?style=flat-square&color=6B6258"></a>
+  <a href="https://github.com/Artlands/human-writing/releases/latest"><img alt="GitHub Release" src="https://img.shields.io/github/v/release/Artlands/human-writing?style=flat-square&color=6B6258"></a>
 </p>
 
 <p align="center">
-  <a href="#快速安装">快速安装</a> ·
-  <a href="#它做什么">写作流程</a> ·
-  <a href="#仓库结构">仓库结构</a> ·
-  <a href="https://github.com/KKKKhazix/human-writing/issues">提交问题</a>
+  <a href="#quick-installation">Quick Installation</a> ·
+  <a href="#what-it-does">Writing Process</a> ·
+  <a href="#repository-structure">Repository Structure</a> ·
+  <a href="https://github.com/Artlands/human-writing/issues">Submit Issues</a>
 </p>
 
-> AI 写中文有个通病：读完觉得挺流畅，但说不出是谁写的。活人感写作想治的就是这件事。
+> AI-written prose often reads smoothly, but you can't tell who wrote it. Human Writing aims to fix this.
 
-让模型写出来的文章读起来像一个具体的人在说话——知道一些事，有判断，偶尔岔开一句，还能接回来。适用于知乎回答、公众号文章、博客、论坛帖、人物故事、科普、评测、小说、口播等大多数中文写作场景。
+Make model-generated articles read like a real person talking—someone with knowledge, judgment, who occasionally goes off on a tangent but can get back on track. Applicable to answers, articles, blogs, forum posts, character stories, popular science, reviews, novels, oral presentations, and more.
 
-## 它做什么
+## What It Does
 
-写作之前先解决一个前置问题：你手上有没有东西可写。
+Before writing, solve one prerequisite: do you have something to write about?
 
-现实题材，材料不够就去查，查不到就追问或者缩短篇幅，绝不拿车轱辘话凑字数。虚构题材可以自由创造人物和情节，但每个场景仍然要有目标、有动作、有变化。
+For realistic content, if materials are insufficient, research them. If you can't find them, ask follow-up questions or shorten the piece—never use empty repetition to pad word count. For fictional content, you can freely create characters and plots, but each scene still needs a goal, action, and change.
 
-材料过关之后管三件事：
+After materials are verified, manage three things:
 
-| 材料 | 推进 | 中文 |
+| Materials | Progression | Voice |
 | :--- | :--- | :--- |
-| 现实写作核准事实、数字、引语和亲历。虚构写作检查人物、行动与因果。 | 每段都要带来新东西——新事实、新动作、新例子或新后果。写过的不重复。 | 白话打底，在意词序和停顿，清掉报告腔、模型腔和翻案句。 |
+| Realistic writing verifies facts, numbers, quotes, and personal experience. Fictional writing checks characters, actions, and causality. | Each paragraph must bring something new—new facts, new actions, new examples, or new consequences. Don't repeat what's been said. | Keep natural language as the foundation, mind word order and pauses, and remove report tone, model tone, and reversal sentences. |
 
-初稿写完还有一道关。Skill 会逐段检查有没有在原地转圈，砍掉重复解释，调整长短句节奏，拦住冒号滥用、破折号、「不是……而是……」之类的翻案腔和常见 AI 黑话。检查脚本只管已经写明的硬规则，不替你决定风格。
+There's one more gate after the first draft. The Skill checks each paragraph for spinning in place, cuts redundant explanations, adjusts the rhythm of long and short sentences, and blocks overuse of colons, dashes, reversal tones like "not...but...," and common AI jargon. The check script only manages hard rules already documented, not your style choices.
 
-## 快速安装
+## Quick Installation
 
-把下面这句话发给你的 Agent。
+Send this command to your Agent:
 
 ```bash
-帮我安装这个skill：https://github.com/KKKKhazix/human-writing
+Help me install this skill: https://github.com/Artlands/human-writing
 ```
 
-Agent 会读取仓库、找到 `human-writing`，完成安装。装好之后显示名为「活人感写作」。
+The Agent will read the repository, find `human-writing`, and complete installation. After installation, it will display as "Human Writing."
 
 <details>
-<summary><strong>Agent 不支持直接安装时</strong></summary>
+<summary><strong>When Agent doesn't support direct installation</strong></summary>
 
-从 [Releases](https://github.com/KKKKhazix/human-writing/releases/latest) 下载，或者把仓库里的 [`human-writing`](./human-writing) 文件夹完整复制到本机 Skills 目录。文件夹名保留 `human-writing`。
+Download from [Releases](https://github.com/Artlands/human-writing/releases/latest), or copy the [`human-writing`](./human-writing) folder from the repository to your local Skills directory. Keep the folder name as `human-writing`.
 
 ```text
 ~/.agents/skills/human-writing/
@@ -54,24 +54,24 @@ Agent 会读取仓库、找到 `human-writing`，完成安装。装好之后显�
 
 </details>
 
-装好之后这样用：
+After installation, use it like this:
 
 ```text
-使用 $human-writing，把我的材料写成一篇有活人感和中文韵律的作品。
+Use $human-writing to write my materials into a piece with human presence and natural rhythm.
 ```
 
-## 1.1.0 改了什么
+## What Changed in 1.1.0
 
-1.0 用字符串禁令拦 AI 味——禁「不是……而是……」、禁冒号、禁一批黑话。有效，但模型会换一套字面继续做同样的事。「你以为……其实……」「回头才发现」和「不是A而是B」是同一个姿势，读者认的是姿势，不是字。
+Version 1.0 used string-level prohibitions to block AI tone—forbidding "not...but...," colons, and a batch of jargon. Effective, but models would just use different wording for the same technique. "You thought...actually...," "didn't realize until later," and "not A but B" are the same move—readers recognize the move, not the words.
 
-1.1 把防线从字面挪到动作：禁的是「先给读者立一个他没有的误解，再推翻它」这件事本身，不管穿什么外衣。检测脚本也跟着升级，补了变形翻案句、AI 排比、抒情借喻的警告层，加了句长变异系数和连词密度的统计检查，同时把「不丢人」「打法」这类正常中文从误伤名单里捞出来。另外出了一个两千字的蒸馏版，ChatGPT、千问这类聊天窗口直接粘贴就能用。
+Version 1.1 shifts the defense from words to actions: it prohibits the act itself of "first creating a misunderstanding the reader doesn't have, then refuting it," regardless of disguise. The detection script upgraded accordingly, adding warning layers for reversal-tone variants, AI parallelism, poetic metaphors, plus statistical checks for sentence-length variation and conjunction density. It also rescued ordinary expressions like "not shameful" and "tactics" from the false-positive list. Additionally, a 2000-character distilled version is available for direct pasting into chat windows.
 
-完整变更见 [CHANGELOG.md](./CHANGELOG.md)。
+See [CHANGELOG.md](./CHANGELOG.md) for the complete changes.
 
-## 仓库结构
+## Repository Structure
 
 <details>
-<summary><strong>展开查看完整目录</strong></summary>
+<summary><strong>Expand to see complete directory</strong></summary>
 
 ```text
 human-writing/
@@ -92,25 +92,25 @@ human-writing/
     └── check_prose.py
 ```
 
-| 位置 | 干什么的 |
+| Location | Purpose |
 | :--- | :--- |
-| [`SKILL.md`](./human-writing/SKILL.md) | 入口。材料门槛、现实与虚构分流、写作流程、交付禁令，全在这一份里 |
-| [`forum-prose.md`](./human-writing/references/forum-prose.md) | 知乎、公众号、论坛长帖的写法，节奏和措辞的具体做法都在这里 |
-| [`reality.md`](./human-writing/references/reality.md) | 真人、历史、新闻、数据和个人经历的事实边界 |
-| [`fiction.md`](./human-writing/references/fiction.md) | 小说、故事、虚构散文和对白的创作规则 |
-| [`formats.md`](./human-writing/references/formats.md) | 短内容、口播、演讲、教程、评测等特殊形式 |
-| [`revision.md`](./human-writing/references/revision.md) | 初稿写完之后怎么改——逐遍检查清单 |
-| [`check_prose.py`](./human-writing/scripts/check_prose.py) | 检查成稿有没有踩到硬禁令 |
-| [`human-writing-lite.md`](./human-writing/dist/human-writing-lite.md) | 蒸馏版，两千字以内，聊天窗口直接粘贴用 |
+| [`SKILL.md`](./human-writing/SKILL.md) | Entrance. Contains material threshold, real vs. fiction routing, writing process, and delivery prohibitions |
+| [`forum-prose.md`](./human-writing/references/forum-prose.md) | How to write Zhihu answers, WeChat articles, and forum long posts—specific techniques for rhythm and wording |
+| [`reality.md`](./human-writing/references/reality.md) | Fact boundaries for real people, history, news, data, and personal experience |
+| [`fiction.md`](./human-writing/references/fiction.md) | Creation rules for novels, stories, fictional prose, and dialogue |
+| [`formats.md`](./human-writing/references/formats.md) | Special formats like short content, oral presentations, speeches, tutorials, reviews |
+| [`revision.md`](./human-writing/references/revision.md) | How to revise after the first draft—pass-by-pass checklist |
+| [`check_prose.py`](./human-writing/scripts/check_prose.py) | Check if the final draft hits any hard prohibitions |
+| [`human-writing-lite.md`](./human-writing/dist/human-writing-lite.md) | Distilled version under 2000 characters, paste directly into chat windows |
 
 </details>
 
-## 反馈
+## Feedback
 
-MIT 协议开源。仓库只有原创规则和工具，没有第三方文章、训练语料或模型权重。
+Open source under MIT license. The repository contains only original rules and tools, no third-party articles, training data, or model weights.
 
-碰到规则冲突、误报或者某个模型上表现不对，欢迎[提 Issue](https://github.com/KKKKhazix/human-writing/issues)。附上你的提示词、模型输出片段和你觉得应该是什么样，排查起来快很多。
+If you encounter rule conflicts, false positives, or inconsistent behavior with certain models, please [file an Issue](https://github.com/Artlands/human-writing/issues). Include your prompt, model output sample, and what you think it should be—this speeds up troubleshooting significantly.
 
 <p align="center">
-  <sub>活人感写作 · Human Writing · 1.1.0</sub>
+  <sub>Human Writing · 1.1.0</sub>
 </p>

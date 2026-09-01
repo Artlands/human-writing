@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""检查中文成稿的硬禁令与常见模型化形状。只报警，不自动改文。"""
+"""Check final drafts for hard prohibitions and common model-like patterns. Report only; do not modify text."""
 
 from __future__ import annotations
 

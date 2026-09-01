@@ -1,29 +1,29 @@
-# 更新日志
+# Changelog
 
-## 1.1.0（2026-08-05）
+## 1.1.0 (2026-08-05)
 
-核心变化只有一句话。禁令从字符串级上移到修辞动作级，检测器补盲区、降误伤、加统计层。
+The core change can be summarized in one sentence. Prohibitions move from string-level to rhetorical-action level, detectors supplement blind spots, reduce false positives, and add statistical layers.
 
 ### SKILL.md
 
-「成稿绝对不能出现」重写。「不是……而是……」等句式清单升级为「翻案腔」的动作级定义，列出九种已知变形作为举例而非边界，并写明替代动作（判断从正面下，先给判断再给依据）。用材料真实挣得的自我修正允许保留，但不能套固定句式。新增三条动作级禁令，三项以上同构排比、给抽象名词配具体动词的抒情借喻、动词名词化。冒号改为分级，引出直接原话放行，提示性冒号仍禁。「不只……还……」从硬禁令降为语境判断。修复三处条文冲突，禁止追问时的六百字短答明确为「研究之后仍不足五件材料」的兜底；来源交付统一为一条规则；检索痕迹写明不算展示创作过程。
+Rewritten "Absolute prohibitions in final drafts." The sentence pattern list like "not...but..." is upgraded to an action-level definition of "reversal tone," listing nine known variants as examples rather than boundaries, with alternative actions specified (make judgments from the front, give judgment first then evidence). Self-corrections earned through real material can be retained, but cannot follow fixed sentence patterns. Added three action-level prohibitions: three or more parallel structures with identical construction, poetic metaphors giving concrete verbs to abstract nouns, and verb nominalization. Colons changed to leveled usage: directly quoting original speech is allowed, but suggestive colons remain prohibited. "Not only...but also..." downgraded from hard prohibition to context-dependent judgment. Fixed three rule conflicts: the 600-word short answer when asking is clarified as fallback for "fewer than five materials after research"; source delivery unified into one rule; search traces clarified as not counting as showing creation process.
 
 ### references/revision.md
 
-第五遍新增「翻案腔变形对照表」，七类外衣逐一列出。新增排比、抒情借喻、名词化三项检查。绝对禁词中的闭环、打法、想象空间、不丢降为语境判断词。新增模型偏爱抒情词清单（安放、抵达、微光、褶皱等）与「」高亮短语过密检查。第七遍写明用户指定标题里的大词不受结尾大词禁令约束。
+Fifth pass adds "Reversal tone variant comparison table" with seven categories of disguises listed one by one. Added checks for parallelism, poetic metaphor, and nominalization. "Closed loop," "tactics," "imaginative space," and "not shameful" moved from absolute prohibitions to context-dependent words in the prohibited word list. Added list of model-preferred lyrical words (placement, arrival, faint light, wrinkles, etc.) and check for excessive highlighted phrase density. Seventh pass clarifies that major words in user-specified titles are not subject to end-word prohibitions.
 
 ### references/forum-prose.md
 
-「让句子有松有紧」一节新增四条可量化的模型腔修法，句长要有高低差、删一半连词（附前后对照）、名词化还原成动词、该重复就重复。新增两段原创示范，「判断从正面下，不借翻案抬价」「长短句自己会呼吸」。
+Added four quantifiable model-tone fixes in the "Let sentences have both tightness and looseness" section: sentence length must have ups and downs, delete half the conjunctions (with before/after comparison), restore nominalization to verbs, repeat when needed. Added two original examples: "Make judgments from the front, don't use reversal to inflate value," "Long and short sentences breathe on their own."
 
 ### scripts/check_prose.py
 
-修复翻案句正则的三类漏检，跨句「。而是」、换字「倒不如／毋宁」，均判失败。新增警告层，翻案腔变形族（以为……其实、回头才发现、不是A，是B、从来都与……无关、跨句表面／看似等）、三连以上同构排比、名词化句式、模型偏爱抒情词、「」高亮短语过密。新增统计层，句长变异系数过低警告、连词密度过高警告（阈值依据 CCL 2023 人机中文对照研究）。误伤修复，「不丢人」不再触发硬停词，打法、想象空间、闭环移入语境判断词，引出原话的冒号降为警告。
+Fixed three types of missed detections in reversal sentence regex: cross-sentence reversal forms and character-swapped forms, both now detected as failures. Added warning layer for reversal tone variant family (thought...actually, didn't realize until later, not A, is B, has never...no relation to, cross-sentence apparent/seeming), three or more parallel structures with identical construction, nominalization sentence patterns, model-preferred lyrical words, excessive highlighted phrase density. Added statistical layer: warnings for low sentence length variation coefficient and high conjunction density. Fixed false positives: "not shameful" no longer triggers hard stops, "tactics," "imaginative space," "closed loop" moved to context-judgment words, colons introducing original speech downgraded to warnings.
 
-### 新增
+### New Additions
 
-dist/human-writing-lite.md，两千字以内的蒸馏版，供 ChatGPT、千问办公、WorkBuddy 等聊天场景和较弱模型直接粘贴使用。
+dist/human-writing-lite.md, a distilled version under 2000 characters, available for direct paste into ChatGPT, Qwen Office, WorkBuddy and other chat scenarios and weaker models.
 
-## 1.0.0（2026-08-05）
+## 1.0.0 (2026-08-05)
 
-首次开源。
+First open-source release.
