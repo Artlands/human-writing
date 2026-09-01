@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.2.1 (2026-09-01)
+
+Added comprehensive scientific-writing support for research papers, abstracts, literature reviews, research and grant proposals, and technical reports. The new evidence-first reference guide embeds practical reporting and proposal requirements from PRISMA, NIH, and NSF; includes an illustrative NSF Project Summary and compliance checklist; and provides templates for abstracts, methods, results, literature synthesis, and peer-review responses. Scientific conventions now override general prose rules when required for precision or venue compliance.
+
 ## 1.2.0 (2026-09-01)
 
 Migrated the Skill, reference guides, lite guide, agent metadata, and documentation to English. Updated repository branding and descriptions to be language-neutral so the Skill is not positioned as specific to Chinese writing.

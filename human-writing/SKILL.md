@@ -1,9 +1,9 @@
 ---
 name: human-writing
-description: General-purpose writing and revision Skill for answers, articles, blogs, comments, character stories, historical narratives, news and industry analysis, popular science, tutorials, reviews, personal narratives, novels, stories, dialogue, oral presentations, and speeches. Write as someone who has seen things, researched the material, and is willing to explain the full story. Preserve a human presence and natural rhythm while avoiding hollow institutional, slogan-based, marketing, and model tones. For non-fiction long pieces, first check whether materials are sufficient; if not, research, ask follow-up questions, or shorten the piece. Never use repetitive explanations to pad word count. Reality content additionally verifies facts, quotations, data, and user experience; fictional content can create characters, scenes, dialogue, psychology, and plot. The final draft prohibits colons, dashes, "not...but..." and similar reversal sentences, and removes business and model jargon. Do not create author personas, personal rule sets, or personal writing Skills.
+description: General-purpose writing and revision Skill for answers, articles, blogs, comments, scientific papers and proposals, character stories, historical narratives, news and industry analysis, popular science, tutorials, reviews, personal narratives, novels, stories, dialogue, oral presentations, and speeches. Write as someone who has seen things, researched the material, and is willing to explain the full story. Preserve a human presence and natural rhythm while avoiding hollow institutional, slogan-based, marketing, and model tones. For non-fiction long pieces, first check whether materials are sufficient; if not, research, ask follow-up questions, or shorten the piece. Never use repetitive explanations to pad word count. Reality content additionally verifies facts, quotations, data, and user experience; fictional content can create characters, scenes, dialogue, psychology, and plot. The final draft prohibits colons, dashes, "not...but..." and similar reversal sentences, and removes business and model jargon. Do not create author personas, personal rule sets, or personal writing Skills.
 ---
 
-# Human Writing 1.2.0
+# Human Writing 1.2.1
 
 By default, write every piece as long-form prose worth reading to the end. The reader should feel that there is a specific person on the other side. This person knows some things and has gaps in their knowledge. They are willing to give details, dare to make judgments, occasionally take a brief detour, and then pick the thread back up.
 
@@ -41,6 +41,7 @@ There is one common error in non-fiction opinion pieces that must be stopped dir
 
 - When newly writing or substantially rewriting Zhihu answers, forum long posts, WeChat articles, blogs, comments, profiles, and industry pieces, read `references/forum-prose.md`.
 - For real people, history, news, products, data, reviews, tutorials, commercial information, and user firsthand experience, also read `references/reality.md`.
+- For scientific papers, abstracts, literature reviews, research or grant proposals, and technical reports, read `references/scientific-writing.md` together with `references/reality.md`.
 - For novels, stories, fictional essays, dialogue, and scripts, read `references/fiction.md` instead. When the user requests a forum-style novel or a first-person story, also read `references/forum-prose.md`.
 - When short content, personal narratives, tutorials, reviews, spoken presentations, speeches, scripts, dialogue, poetry, and other forms need special treatment, read `references/formats.md`.
 - Read `references/revision.md` only after the first draft is complete. Do not load detailed editing rules before writing.
@@ -53,11 +54,11 @@ Handle them in the following order.
 
 1. The current user's explicitly specified style, non-fiction or fictional nature, tone, and delivery format.
 2. The work's commitment to reality. Real-world content follows factual boundaries. Fiction follows character, causality, and world rules.
-3. Rules in `references/fiction.md`, `references/reality.md`, and `references/formats.md` that are directly relevant to the current task.
+3. Rules in `references/fiction.md`, `references/reality.md`, `references/scientific-writing.md`, and `references/formats.md` that are directly relevant to the current task.
 4. `references/forum-prose.md` and the default prose approach in this file.
 5. The revision rules in `references/revision.md` and reminders from the checking script.
 
-A specific genre overrides the general approach. Source requirements for non-fiction cannot be imposed on pure fiction. The complete backbone of prose cannot be imposed on line breaks in poetry or character dialogue. The checking script can enforce only hard prohibitions already written down. Warning items cannot decide the genre for the author.
+A specific genre overrides the general approach. Source requirements for non-fiction cannot be imposed on pure fiction. The complete backbone of prose cannot be imposed on line breaks in poetry or character dialogue. Scientific writing may use conventional structural punctuation, headings, citations, equations, tables, captions, and references when required by the venue or field. The checking script can enforce only hard prohibitions already written down. Warning items cannot decide the genre for the author.
 
 ## First Determine What the Work Promises About Reality
 

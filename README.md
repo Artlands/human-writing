@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/Artlands/human-writing/releases/tag/v1.2.0"><img alt="Version 1.2.0" src="https://img.shields.io/badge/version-1.2.0-C4473A?style=flat-square"></a>
+  <a href="https://github.com/Artlands/human-writing/releases/tag/v1.2.1"><img alt="Version 1.2.1" src="https://img.shields.io/badge/version-1.2.1-C4473A?style=flat-square"></a>
   <a href="./LICENSE"><img alt="MIT License" src="https://img.shields.io/badge/license-MIT-313131?style=flat-square"></a>
   <a href="https://github.com/Artlands/human-writing/releases/latest"><img alt="GitHub Release" src="https://img.shields.io/github/v/release/Artlands/human-writing?style=flat-square&color=6B6258"></a>
 </p>
@@ -17,7 +17,7 @@
 
 > AI-written prose often reads smoothly, but you can't tell who wrote it. Human Writing aims to fix this.
 
-Make model-generated articles read like a real person talking—someone with knowledge, judgment, who occasionally goes off on a tangent but can get back on track. Applicable to answers, articles, blogs, forum posts, character stories, popular science, reviews, novels, oral presentations, and more.
+Make model-generated articles read like a real person talking—someone with knowledge, judgment, who occasionally goes off on a tangent but can get back on track. Applicable to answers, articles, scientific papers and proposals, blogs, forum posts, character stories, popular science, reviews, novels, oral presentations, and more.
 
 ## What It Does
 
@@ -60,6 +60,10 @@ After installation, use it like this:
 Use $human-writing to write my materials into a piece with human presence and natural rhythm.
 ```
 
+## What Changed in 1.2.1
+
+Added comprehensive scientific-writing support for research papers, abstracts, literature reviews, research and grant proposals, and technical reports. The evidence-first guide includes embedded PRISMA, NIH, and NSF requirements, an NSF Project Summary example, citation and research-integrity safeguards, and templates for core scientific sections and peer-review responses.
+
 ## What Changed in 1.2.0
 
 Human Writing is now fully available in English and uses language-neutral positioning throughout the documentation, configuration, and lite guide. The skill continues to support nonfiction and fiction across common writing formats without being tied to a specific language.
@@ -91,6 +95,7 @@ human-writing/
 │   ├── reality.md
 │   ├── fiction.md
 │   ├── formats.md
+│   ├── scientific-writing.md
 │   └── revision.md
 └── scripts/
     └── check_prose.py
@@ -103,6 +108,7 @@ human-writing/
 | [`reality.md`](./human-writing/references/reality.md) | Fact boundaries for real people, history, news, data, and personal experience |
 | [`fiction.md`](./human-writing/references/fiction.md) | Creation rules for novels, stories, fictional prose, and dialogue |
 | [`formats.md`](./human-writing/references/formats.md) | Special formats like short content, oral presentations, speeches, tutorials, reviews |
+| [`scientific-writing.md`](./human-writing/references/scientific-writing.md) | Evidence-first guidance for papers, literature reviews, proposals, and technical reports |
 | [`revision.md`](./human-writing/references/revision.md) | How to revise after the first draft—pass-by-pass checklist |
 | [`check_prose.py`](./human-writing/scripts/check_prose.py) | Check if the final draft hits any hard prohibitions |
 | [`human-writing-lite.md`](./human-writing/dist/human-writing-lite.md) | Distilled version under 2000 characters, paste directly into chat windows |
@@ -116,5 +122,5 @@ Open source under MIT license. The repository contains only original rules and t
 If you encounter rule conflicts, false positives, or inconsistent behavior with certain models, please [file an Issue](https://github.com/Artlands/human-writing/issues). Include your prompt, model output sample, and what you think it should be—this speeds up troubleshooting significantly.
 
 <p align="center">
-  <sub>Human Writing · 1.2.0</sub>
+  <sub>Human Writing · 1.2.1</sub>
 </p>

@@ -1,4 +1,4 @@
 interface:
   display_name: "Human Writing"
-  short_description: "Write nonfiction, stories, and other work with a natural human voice"
-  default_prompt: "Use $human-writing to turn my material into a work with a natural human voice. Keep the nonfiction grounded and the fictional elements internally coherent."
+  short_description: "Write nonfiction, scientific work, stories, and other work with a natural human voice"
+  default_prompt: "Use $human-writing to turn my material into a work with a natural human voice. Keep scientific and nonfiction claims grounded, and keep fictional elements internally coherent."
